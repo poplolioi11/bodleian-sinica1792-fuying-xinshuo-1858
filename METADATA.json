@@ -1,0 +1,224 @@
+{
+  "schema": "scholarly-historical-dataset-metadata/1",
+  "resource_type": "dataset",
+  "title": "婦嬰新說 / Fu ying xin shuo",
+  "version": "0.1.0",
+  "creators": [
+    {
+      "name": "Chu, Chen-Yu",
+      "family_name": "Chu",
+      "given_names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914",
+      "role": "dataset-editor",
+      "aliases": [
+        "曲宸宇",
+        "Chen-Yu Chu",
+        "poplolioi11"
+      ]
+    }
+  ],
+  "url": "https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858",
+  "doi": null,
+  "titles": [
+    {
+      "title": "婦嬰新說",
+      "language": "lzh",
+      "type": "source-original-title"
+    },
+    {
+      "title": "Fu ying xin shuo",
+      "language": "zh-Latn",
+      "type": "catalogue-romanization-display",
+      "catalogue_verbatim": "fu ying xin shuo",
+      "display_transformation": "uppercase first letter only"
+    },
+    {
+      "title": "New Treatise on Women and Infants",
+      "language": "en",
+      "type": "editorial-translation",
+      "note": "Not an official catalogue English title."
+    }
+  ],
+  "descriptions": {
+    "abstract": {
+      "zh": "《婦嬰新說》（Fu ying xin shuo）由合信氏（Benjamin Hobson）著、管茂材同撰，館目著錄為1858年上海仁濟醫館本，論述女性生殖解剖、妊娠、分娩、嬰幼兒疾病及當時方藥，並附醫學圖說。本資料集依牛津Bodleian Libraries, University of Oxford所藏Sinica 1792，提供128面忠實轉錄，以及p129–137九面的版本與流通史導讀；導讀不收該章操作正文。JSON、TXT及TEI保留原字、原刻句讀、細註、圖中文字及來源對應，可供醫學史、翻譯史與圖說研究初步檢索及回圖查核。v0.1.0為AI影像初錄及同底本補錄，尚未套用獨立二校，保留12條有限未解紀錄，未經人類全文核對。",
+      "en": "Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. This dataset draws on Bodleian Libraries, University of Oxford, Sinica 1792. It provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without reproducing that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the witness, for preliminary research in medical history, translation and illustration. Version 0.1.0 is an AI image transcription with same-witness supplementation; independent collation has not been applied. Twelve bounded uncertainty records remain, and no human full-text collation is claimed."
+    },
+    "methods": {
+      "zh": "以牛津Sinica 1792的固定影像為唯一取文底本，題頁與館目所載年代和當冊實際印次分開；當冊實際印次未知。逐面閱讀128面，再對細註與圖中文字使用必要局部原圖補錄；不以異本或現代常用詞覆蓋原字。頁、文字單元、正文、細註、圖題、圖字及版心分層保存，小註另留主欄錨點。保留原刻句讀、異體及疑似訛字，未定處以□、穩定字形ID及候選紀錄表示，沒有加入現代閱讀標點。p129–137九面僅提供版本與流通史導讀，不轉錄該章操作正文。JSON主本機械衍生TXT及TEI，逐單元核對文字、順序、來源及疑讀位置；TEI另作官方P5 4.12.0 Relax NG文法驗證。這些檢查不證明讀字準確率。此版為AI影像初錄及同底本補錄，未套用獨立二校；人類全文核對、專家與同儕審查均未執行，精確AI模型型號未確認。公開方法僅為高層說明；未公開提示、程式、裁片與完整工作紀錄，因此不能單靠本包從原圖重跑全部辨讀過程。",
+      "en": "The fixed images of Bodleian Sinica 1792 are the sole transcription witness. The catalogue records an 1858 Shanghai edition; the actual impression of this copy is unknown. All 128 included faces were read, with necessary local image details used to supplement small notes and diagram labels. Other editions and modern terminology do not replace source forms. Pages, units and textual roles are preserved separately, including note anchors, printed punctuation, variants and possible source errors. Unresolved readings retain squares, stable glyph identifiers and candidate records. The nine faces p129–137 receive only a bibliographical and circulation-history guide. TXT and TEI are mechanically derived from the JSON master and checked for unit strings, order, sources and uncertainty positions; TEI also receives official P5 4.12.0 Relax NG validation. These checks do not establish transcription accuracy. This version contains AI initial transcription and same-witness supplementation, without incorporated independent collation or human full-text, expert or peer review. The exact AI model identifier is unconfirmed. Only a high-level method is public; prompts, production code, crops and complete work records are excluded, so the full image-reading process cannot be rerun from this package alone."
+    }
+  },
+  "keywords": [
+    "婦嬰新說",
+    "Fu ying xin shuo",
+    "合信",
+    "Benjamin Hobson",
+    "管茂材",
+    "Guan mao cai",
+    "醫學史",
+    "History of medicine",
+    "產科史",
+    "History of obstetrics",
+    "兒科史",
+    "History of pediatrics",
+    "醫學翻譯",
+    "Medical translation",
+    "解剖圖說",
+    "Anatomical illustration",
+    "十九世紀上海",
+    "Nineteenth-century Shanghai",
+    "文言",
+    "Classical Chinese",
+    "古籍轉錄",
+    "Historical transcription",
+    "Bodleian Sinica 1792",
+    "TEI"
+  ],
+  "languages": [
+    {
+      "id": "lzh",
+      "scope": "historical-transcription-primary"
+    },
+    {
+      "id": "zh",
+      "scope": "modern-documentation"
+    },
+    {
+      "id": "en",
+      "scope": "modern-documentation-and-some-source-collection-marks"
+    }
+  ],
+  "source_work": {
+    "title": "婦嬰新說",
+    "catalogue_romanization": "fu ying xin shuo",
+    "publication_year": "1858",
+    "publication_place": {
+      "catalogue_verbatim": "上海(shang hai)",
+      "display": "Shanghai"
+    },
+    "publisher": {
+      "catalogue_verbatim": [
+        "仁濟醫館",
+        "ren ji yi guan"
+      ],
+      "display": "仁濟醫館 / Ren ji yi guan"
+    },
+    "historical_authors": [
+      {
+        "catalogue_name": "Hobson, Benjamin",
+        "display_name": "Benjamin Hobson",
+        "source_statement": "英國醫士合信氏著"
+      },
+      {
+        "catalogue_name": "(清)管茂材",
+        "catalogue_romanization": "guan mao cai",
+        "display_name": "管茂材 / Guan mao cai",
+        "source_statement": "江甯管茂材同撰"
+      }
+    ],
+    "witness": {
+      "institution": "Bodleian Libraries, University of Oxford",
+      "shelfmark": "Sinica 1792",
+      "actual_impression": null,
+      "scan_date": null
+    },
+    "publication_year_basis": "catalogue and title-page imprint statement; the actual impression of this copy is unknown"
+  },
+  "related_identifiers": [
+    {
+      "identifier": "https://digital.bodleian.ox.ac.uk/objects/81ca8c5b-9a4c-4da0-83b9-ed8bc4bc0988/",
+      "scheme": "url",
+      "relation": "IsDerivedFrom",
+      "resource_role": "digitized-source-object"
+    },
+    {
+      "identifier": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1543",
+      "scheme": "url",
+      "relation": "References",
+      "resource_role": "official-catalogue"
+    },
+    {
+      "identifier": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/81ca8c5b-9a4c-4da0-83b9-ed8bc4bc0988.json",
+      "scheme": "url",
+      "relation": "References",
+      "resource_role": "IIIF-source-manifest"
+    }
+  ],
+  "source_evidence": {
+    "catalogue_xml_sha256": "3e1782cb0cd8462581af4134a2f1c53123e1ccc741d115b36601ce08b2639162",
+    "title_locator": "tei:msItem/tei:title[@source=\"#200|9\"]",
+    "catalogue_uri": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1543"
+  },
+  "coverage": {
+    "transcribed_faces": 128,
+    "transcription_units": 1498,
+    "guide_only_faces": [
+      "p129",
+      "p130",
+      "p131",
+      "p132",
+      "p133",
+      "p134",
+      "p135",
+      "p136",
+      "p137"
+    ],
+    "guide_only_face_count": 9,
+    "guide_scope": "bibliographical-and-circulation-history",
+    "excluded_chapter_operational_text_included": false,
+    "not_all_physical_faces_transcribed": true
+  },
+  "quality": {
+    "stage": "initial-image-transcription-with-same-witness-supplementation",
+    "independent_collation_applied": false,
+    "human_full_collation": "not-run",
+    "expert_review": "not-run",
+    "peer_review": "not-run",
+    "measured_character_accuracy": null,
+    "uncertainty_records": 12,
+    "actual_ai_model": null,
+    "methods_file": "METHODS.md"
+  },
+  "license": {
+    "id": "cc-by-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "scope": "new-original-copyrightable-documentation-and-metadata-only"
+  },
+  "rights_layers": [
+    {
+      "layer": "underlying-historical-text",
+      "status": "public-domain-treated",
+      "additional_restrictions_asserted": false,
+      "statement": "Historical text; the editor adds no restriction."
+    },
+    {
+      "layer": "source-scans",
+      "included_in_package": false,
+      "license_id": "cc-by-nc-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "terms_url": "https://digital.bodleian.ox.ac.uk/terms/",
+      "statement": "Separate Bodleian image terms retained as source conditions; no scans/crops supplied."
+    },
+    {
+      "layer": "new-documentation-and-metadata",
+      "license_id": "cc-by-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "creator_orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "files": {
+    "master": "book.json",
+    "text": "text.txt",
+    "tei": "text.tei.xml",
+    "uncertainties": "UNCERTAINTIES.json",
+    "methods": "METHODS.md"
+  },
+  "fixed_text_integrity": {
+    "book_json_sha256": "404f692e4840206d564fcade385faf294df5587eeb490696b391601775dc3b29",
+    "txt_sha256": "6b30df77d226ed0bdf9195e4a7f98f048110732342dd01090180fdd5dc89c230",
+    "tei_text_subtree_sha256": "de15b1175729bd18cfda929824e06c013568200157d174ff58af4629918173ae",
+    "source_body_changed": false,
+    "tei_header_documentation_updated": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "faces": 128,
+  "units": 1498,
+  "codepoints_in_units": 25535,
+  "source_punctuation_counts": {
+    "、": 2009,
+    "○": 37
+  },
+  "unresolved_records": 12,
+  "unknown_quantity_gaps": 0,
+  "blank_square_occurrences": 4,
+  "gaiji_marker_groups": 3
+}

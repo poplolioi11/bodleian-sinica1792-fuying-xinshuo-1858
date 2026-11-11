@@ -1,0 +1,94 @@
+{
+  "schema": "sinica1792-public-initial-package/1",
+  "version": "0.1.0",
+  "stats": {
+    "faces": 128,
+    "units": 1498,
+    "codepoints_in_units": 25535,
+    "source_punctuation_counts": {
+      "、": 2009,
+      "○": 37
+    },
+    "unresolved_records": 12,
+    "unknown_quantity_gaps": 0,
+    "blank_square_occurrences": 4,
+    "gaiji_marker_groups": 3
+  },
+  "files": {
+    "ABSTRACT.zh-en.md": {
+      "sha256": "bcd9cc294507858054e1c076a0515c968d92a7bff65a8414574d7976ab70d3e1",
+      "bytes": 1886
+    },
+    "CHANGES.json": {
+      "sha256": "a460c2e0b2250c71daee5a950d286c1fe9f019a87eeb886ea284d64504509e45",
+      "bytes": 331443
+    },
+    "CITATION.cff": {
+      "sha256": "6afa08fe152fc7ce41a838c5c0b2af93d11a93701319b2cec67e272efb3e8454",
+      "bytes": 1872
+    },
+    "DATA-DICTIONARY.md": {
+      "sha256": "0f42022975160927db57b44b6f7ed1964d56c14f5bf7b29a199c96c58a289314",
+      "bytes": 1054
+    },
+    "LICENSE.md": {
+      "sha256": "3dfa80fca794d18a474aac42106a326ec4094734f1a148be0d32eac4aa07b51a",
+      "bytes": 942
+    },
+    "METADATA.json": {
+      "sha256": "4b892aa7f9c1bbc7bc0a5f66f4def356c65255620ea909ec70d090cf3f464328",
+      "bytes": 10578
+    },
+    "METHODS.md": {
+      "sha256": "e24488dc975fdc3518d6b88ed3dec8a1d7df78e5b183671d331c48d76df2d29e",
+      "bytes": 2405
+    },
+    "POLICY.md": {
+      "sha256": "bfd1a475ebe91a145278d15e7adcbc1e777b3e42250aed294a8bfc00120f1677",
+      "bytes": 1501
+    },
+    "QUALITY-AND-CONTRIBUTIONS.md": {
+      "sha256": "d072f96610d0d738b447e36a2b2c5ebb40bc258f7c67a6f23a80bd8b188d74dd",
+      "bytes": 1127
+    },
+    "READING-GUIDE.md": {
+      "sha256": "74482f83f2afb5e1382d872ff6e3d5f704e6fd773fea48cbbe855f42c8e43f5d",
+      "bytes": 1209
+    },
+    "README.md": {
+      "sha256": "45346300dca12914576ccd60cc11662a8241a445656f1a055c7962c3ef1a9a20",
+      "bytes": 3651
+    },
+    "STATS.json": {
+      "sha256": "a692376d3a61c61d7637b18fe4638815249712cff4abcd40efaa4c626292a9e9",
+      "bytes": 256
+    },
+    "UNCERTAINTIES.json": {
+      "sha256": "b151a95f6f97c80ec41bb72abc900f552ef3a6e206fa55086f290e9f40233cda",
+      "bytes": 5789
+    },
+    "book.json": {
+      "sha256": "404f692e4840206d564fcade385faf294df5587eeb490696b391601775dc3b29",
+      "bytes": 621128
+    },
+    "tei.sidecar.json": {
+      "sha256": "7f0fc81579ad303c1b99b0e587dfc390100bf14206c493600973aaf86838af85",
+      "bytes": 176185
+    },
+    "text.sidecar.json": {
+      "sha256": "e70c97ee69fd8c7b6bd45d208d6214d3aac6899bf972302a5be091077e699db7",
+      "bytes": 186973
+    },
+    "text.tei.xml": {
+      "sha256": "d2755dbfc2e198d27e3d04a5ee1beb927896ef501cbdecdab2a8b739cbd32646",
+      "bytes": 178983
+    },
+    "text.txt": {
+      "sha256": "6b30df77d226ed0bdf9195e4a7f98f048110732342dd01090180fdd5dc89c230",
+      "bytes": 77514
+    }
+  },
+  "text_only": true,
+  "public_images_included": false,
+  "remote_published": false
+}

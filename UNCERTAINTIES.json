@@ -1,0 +1,205 @@
+{
+  "offset_basis": "unicode-codepoint-0-half-open",
+  "records": [
+    {
+      "id": "q1792-initial-001",
+      "unit_id": "cover-hand-circle1",
+      "page_id": "cover-upper",
+      "start": 0,
+      "end": 3,
+      "surface": "Ser",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": null,
+      "candidates": [
+        "Sc",
+        "Sin",
+        "Ser."
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "鉛筆前綴與點號不完全可靠，保留暫讀Ser，不據館目詞形改字。"
+    },
+    {
+      "id": "q1792-initial-002",
+      "unit_id": "p003-c02",
+      "page_id": "p003",
+      "start": 2,
+      "end": 3,
+      "surface": "□",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "本面全幅與既有3000px來源已讀，序文字形仍未可靠選碼。"
+    },
+    {
+      "id": "q1792-initial-003",
+      "unit_id": "p003-c04",
+      "page_id": "p003",
+      "start": 8,
+      "end": 9,
+      "surface": "□",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "本面一字仍未可靠辨讀，保持原單字缺口。"
+    },
+    {
+      "id": "q1792-initial-004",
+      "unit_id": "p004-c04",
+      "page_id": "p004",
+      "start": 13,
+      "end": 35,
+      "surface": "⟦g1792-p004-c04-tail3⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 3,
+      "candidates": [
+        "形詳據",
+        "移詳據",
+        "形躰揣"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "原像素已讀的3字草寫字群，精確碼位未定；非整欄未處理。"
+    },
+    {
+      "id": "q1792-initial-005",
+      "unit_id": "p005-c05",
+      "page_id": "p005",
+      "start": 1,
+      "end": 21,
+      "surface": "⟦g1792-p005-c05-one⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "無",
+        "乏"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "不後草寫連筆實見，未以常用語補無。"
+    },
+    {
+      "id": "q1792-initial-006",
+      "unit_id": "p011-ll-front-d06",
+      "page_id": "p011",
+      "start": 0,
+      "end": 22,
+      "surface": "⟦g1792-p011-ll-front2⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 2,
+      "candidates": [
+        "骨盤",
+        "交骨"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "下左圖前端斜列2字，已讀原像素仍未定。"
+    },
+    {
+      "id": "q1792-initial-007",
+      "unit_id": "p025-c06",
+      "page_id": "p025",
+      "start": 11,
+      "end": 12,
+      "surface": "啣",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "啣",
+        "銜"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "原圖支持啣的初讀，精確字形與異體關係仍保留質詢。"
+    },
+    {
+      "id": "q1792-initial-008",
+      "unit_id": "p041-c04",
+      "page_id": "p041",
+      "start": 19,
+      "end": 20,
+      "surface": "□",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "寐",
+        "寤",
+        "瘤"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "醉後一字已看e-5原像素，尚未可靠定字；候選不寫入忠實層。"
+    },
+    {
+      "id": "q1792-initial-009",
+      "unit_id": "p086-c04",
+      "page_id": "p086",
+      "start": 9,
+      "end": 10,
+      "surface": "□",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [],
+      "cause": "image-insufficient",
+      "status": "unresolved",
+      "reason": "本面全幅已讀，手後一字未定；末輪f-6實際區域偏右，沒有包含目標字。固定末輪後不再擴搜，單字仍保留。"
+    },
+    {
+      "id": "q1792-initial-010",
+      "unit_id": "p069-c03",
+      "page_id": "p069",
+      "start": 2,
+      "end": 3,
+      "surface": "蛆",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "蛆",
+        "蛭"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "採當處蟲且暫讀蛆，與p094蟲其蜞分開保存；讀法仍可回圖質詢。"
+    },
+    {
+      "id": "q1792-initial-011",
+      "unit_id": "p127-u010",
+      "page_id": "p127",
+      "start": 19,
+      "end": 20,
+      "surface": "會",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "會",
+        "肩",
+        "曾"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "f-15字形實讀後仍保留原暫讀會，沒有依常見身體部位更改。"
+    },
+    {
+      "id": "q1792-initial-012",
+      "unit_id": "p101-note-1",
+      "page_id": "p101",
+      "start": 0,
+      "end": 13,
+      "surface": "驢乳味甘、川水攪和、宜沸湯",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": null,
+      "candidates": [
+        "驢乳味甘、川水攪和、宜沸湯"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "完整小註字面已補；末部短列的線性讀序及川字讀法保留未決，未變成未處理段落。"
+    }
+  ],
+  "not_accuracy_measure": true,
+  "no_new_requests": true
+}
