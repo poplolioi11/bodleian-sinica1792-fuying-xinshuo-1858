@@ -1,0 +1,328 @@
+{
+  "schema": "sinica1792-historical-context/2",
+  "version": "0.2.0",
+  "source_witness": "Bodleian Sinica 1792",
+  "catalogued_edition": {
+    "year": "1858",
+    "place": "Shanghai",
+    "publisher": "仁濟醫館 / Ren ji yi guan"
+  },
+  "actual_impression": null,
+  "composition_date": null,
+  "scan_date": null,
+  "faithful_normalization": "none",
+  "era_is_background_only": true,
+  "glyph_cases": [
+    {
+      "uncertainty_id": "q1792-v020-cover-prefix",
+      "unit_id": "cover-hand-circle1",
+      "source_page_id": "cover-upper",
+      "surface": "Ser.",
+      "candidates": [
+        "Sc.",
+        "Sin.",
+        "Ser."
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p004-last2",
+      "unit_id": "p004-c04",
+      "source_page_id": "p004",
+      "surface": "⟦g1792-p004-c04-last2⟧",
+      "candidates": [
+        "輕揣",
+        "軒輊"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-initial-005",
+      "unit_id": "p005-c05",
+      "source_page_id": "p005",
+      "surface": "⟦g1792-p005-c05-one⟧",
+      "candidates": [
+        "無",
+        "乏"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p018-lower-bottom",
+      "unit_id": "p018-lower-bottom-label-v020",
+      "source_page_id": "p018",
+      "surface": "⟦g1792-p018-lower-bottom-label⟧",
+      "candidates": [
+        "臀肉"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p019-caption",
+      "unit_id": "p019-upper-note",
+      "source_page_id": "p019",
+      "surface": "道",
+      "candidates": [
+        "產"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p032-c05",
+      "unit_id": "p032-c05",
+      "source_page_id": "p032",
+      "surface": "全",
+      "candidates": [
+        "至"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p032-c07",
+      "unit_id": "p032-c07",
+      "source_page_id": "p032",
+      "surface": "間",
+      "candidates": [
+        "閒"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p034-c11",
+      "unit_id": "p034-c11",
+      "source_page_id": "p034",
+      "surface": "搽",
+      "candidates": [],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p035-temp",
+      "unit_id": "p035-c03",
+      "source_page_id": "p035",
+      "surface": "⟦g1792-p035-c03-temp1⟧",
+      "candidates": [
+        "暖",
+        "溫",
+        "間",
+        "閒"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-initial-008",
+      "unit_id": "p041-c04",
+      "source_page_id": "p041",
+      "surface": "□",
+      "candidates": [
+        "寢",
+        "寤",
+        "寐",
+        "瘤"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p042-link",
+      "unit_id": "p042-c09",
+      "source_page_id": "p042",
+      "surface": "⟦g1792-p042-c09-link1⟧",
+      "candidates": [
+        "聯",
+        "銜",
+        "啣"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p045-c08",
+      "unit_id": "p045-c08",
+      "source_page_id": "p045",
+      "surface": "凸",
+      "candidates": [
+        "凹"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p046-c09",
+      "unit_id": "p046-c09",
+      "source_page_id": "p046",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p046-note-2",
+      "unit_id": "p046-note-2",
+      "source_page_id": "p046",
+      "surface": "畧",
+      "candidates": [
+        "略"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p046-note-3",
+      "unit_id": "p046-note-3",
+      "source_page_id": "p046",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p047-c01",
+      "unit_id": "p047-c01",
+      "source_page_id": "p047",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p063-c05-1",
+      "unit_id": "p063-c05",
+      "source_page_id": "p063",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p063-c06-1",
+      "unit_id": "p063-c06",
+      "source_page_id": "p063",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p063-c06-2",
+      "unit_id": "p063-c06",
+      "source_page_id": "p063",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p063-note-1-1",
+      "unit_id": "p063-note-1",
+      "source_page_id": "p063",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p072-c04",
+      "unit_id": "p072-c04",
+      "source_page_id": "p072",
+      "surface": "⟦g1792-time-first⟧",
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-initial-009",
+      "unit_id": "p086-c04",
+      "source_page_id": "p086",
+      "surface": "□",
+      "candidates": [
+        "撐",
+        "捧",
+        "搖"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p125-u007-1",
+      "unit_id": "p125-u007",
+      "source_page_id": "p125",
+      "surface": "藥",
+      "candidates": [
+        "藥",
+        "盪",
+        "蕩",
+        "灌"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-initial-011",
+      "unit_id": "p127-u010",
+      "source_page_id": "p127",
+      "surface": "會",
+      "candidates": [
+        "會",
+        "肩",
+        "曾"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    },
+    {
+      "uncertainty_id": "q1792-v020-p145-u002-1",
+      "unit_id": "p145-u002",
+      "source_page_id": "p145",
+      "surface": "畢",
+      "candidates": [
+        "畢",
+        "單",
+        "蓽",
+        "薑"
+      ],
+      "encoding_status": "unresolved",
+      "human_review": "not-run"
+    }
+  ]
+}

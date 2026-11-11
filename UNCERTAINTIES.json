@@ -1,69 +1,42 @@
 {
+  "schema": "sinica1792-uncertainties/2",
+  "version": "0.2.0",
   "offset_basis": "unicode-codepoint-0-half-open",
   "records": [
     {
-      "id": "q1792-initial-001",
+      "id": "q1792-v020-cover-prefix",
       "unit_id": "cover-hand-circle1",
       "page_id": "cover-upper",
       "start": 0,
-      "end": 3,
-      "surface": "Ser",
+      "end": 4,
+      "surface": "Ser.",
       "offset_basis": "unicode-codepoint-0-half-open",
       "extent": null,
       "candidates": [
-        "Sc",
-        "Sin",
+        "Sc.",
+        "Sin.",
         "Ser."
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "鉛筆前綴與點號不完全可靠，保留暫讀Ser，不據館目詞形改字。"
+      "reason": "本輪已看整面與原像素鉛筆窄區，連寫前綴仍難完全確定；可見字尾小點，補錄點號。"
     },
     {
-      "id": "q1792-initial-002",
-      "unit_id": "p003-c02",
-      "page_id": "p003",
-      "start": 2,
-      "end": 3,
-      "surface": "□",
-      "offset_basis": "unicode-codepoint-0-half-open",
-      "extent": 1,
-      "candidates": [],
-      "cause": "reading-unresolved",
-      "status": "unresolved",
-      "reason": "本面全幅與既有3000px來源已讀，序文字形仍未可靠選碼。"
-    },
-    {
-      "id": "q1792-initial-003",
-      "unit_id": "p003-c04",
-      "page_id": "p003",
-      "start": 8,
-      "end": 9,
-      "surface": "□",
-      "offset_basis": "unicode-codepoint-0-half-open",
-      "extent": 1,
-      "candidates": [],
-      "cause": "reading-unresolved",
-      "status": "unresolved",
-      "reason": "本面一字仍未可靠辨讀，保持原單字缺口。"
-    },
-    {
-      "id": "q1792-initial-004",
+      "id": "q1792-v020-p004-last2",
       "unit_id": "p004-c04",
       "page_id": "p004",
-      "start": 13,
-      "end": 35,
-      "surface": "⟦g1792-p004-c04-tail3⟧",
+      "start": 14,
+      "end": 36,
+      "surface": "⟦g1792-p004-c04-last2⟧",
       "offset_basis": "unicode-codepoint-0-half-open",
-      "extent": 3,
+      "extent": 2,
       "candidates": [
-        "形詳據",
-        "移詳據",
-        "形躰揣"
+        "輕揣",
+        "軒輊"
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "原像素已讀的3字草寫字群，精確碼位未定；非整欄未處理。"
+      "reason": "整面及兩份官方窄區已實讀，尾二草體字仍未能可靠選碼；不以常見詞定字。原初錄三字gaiji之移可辨，前置字為氵旁游。"
     },
     {
       "id": "q1792-initial-005",
@@ -83,38 +56,101 @@
       "reason": "不後草寫連筆實見，未以常用語補無。"
     },
     {
-      "id": "q1792-initial-006",
-      "unit_id": "p011-ll-front-d06",
-      "page_id": "p011",
+      "id": "q1792-v020-p018-lower-bottom",
+      "unit_id": "p018-lower-bottom-label-v020",
+      "page_id": "p018",
       "start": 0,
-      "end": 22,
-      "surface": "⟦g1792-p011-ll-front2⟧",
+      "end": 31,
+      "surface": "⟦g1792-p018-lower-bottom-label⟧",
       "offset_basis": "unicode-codepoint-0-half-open",
-      "extent": 2,
+      "extent": null,
       "candidates": [
-        "骨盤",
-        "交骨"
+        "臀肉"
       ],
-      "cause": "reading-unresolved",
+      "cause": "image-insufficient",
       "status": "unresolved",
-      "reason": "下左圖前端斜列2字，已讀原像素仍未定。"
+      "reason": "下圖最下緣斜排淡字確實存在，現有局部影像未覆蓋全字群；獨立讀稿暫讀臀肉，但仍不能可靠選碼或確定字數。"
     },
     {
-      "id": "q1792-initial-007",
-      "unit_id": "p025-c06",
-      "page_id": "p025",
-      "start": 11,
-      "end": 12,
-      "surface": "啣",
+      "id": "q1792-v020-p019-caption",
+      "unit_id": "p019-upper-note",
+      "page_id": "p019",
+      "start": 7,
+      "end": 8,
+      "surface": "道",
       "offset_basis": "unicode-codepoint-0-half-open",
       "extent": 1,
       "candidates": [
-        "啣",
-        "銜"
+        "產"
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "原圖支持啣的初讀，精確字形與異體關係仍保留質詢。"
+      "reason": "整面及原像素等值顯示原區實看，生後一字低清，保留暫讀道，並列獨立稿產；不以文意選定。"
+    },
+    {
+      "id": "q1792-v020-p032-c05",
+      "unit_id": "p032-c05",
+      "page_id": "p032",
+      "start": 11,
+      "end": 12,
+      "surface": "全",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "至"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "經後字低清，兩稿全／至有異，保留初錄暫讀全並列至；沒有按句義定字。"
+    },
+    {
+      "id": "q1792-v020-p032-c07",
+      "unit_id": "p032-c07",
+      "page_id": "p032",
+      "start": 1,
+      "end": 2,
+      "surface": "間",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "閒"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "門內日／月細筆在現存縮幅影像仍難分；兩稿同錄間，本輪同讀高風險覆看後加候閒，不據詞語常用形轉換。"
+    },
+    {
+      "id": "q1792-v020-p034-c11",
+      "unit_id": "p034-c11",
+      "page_id": "p034",
+      "start": 4,
+      "end": 5,
+      "surface": "搽",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "整面及原像素等值顯示逐欄已看，骨後第一扌旁字細筆仍未完全可靠，保留搽暫讀；其後薑椒樟水較可辨，不以程序文意補字。"
+    },
+    {
+      "id": "q1792-v020-p035-temp",
+      "unit_id": "p035-c03",
+      "page_id": "p035",
+      "start": 11,
+      "end": 33,
+      "surface": "⟦g1792-p035-c03-temp1⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "暖",
+        "溫",
+        "間",
+        "閒"
+      ],
+      "cause": "image-insufficient",
+      "status": "unresolved",
+      "reason": "容後一字本輪整面及原像素等值顯示回看仍無法可靠分選，兩稿暖／間均不逕採，以單字gaiji留原位置；不以詞義定字。"
     },
     {
       "id": "q1792-initial-008",
@@ -126,13 +162,208 @@
       "offset_basis": "unicode-codepoint-0-half-open",
       "extent": 1,
       "candidates": [
-        "寐",
+        "寢",
         "寤",
+        "寐",
         "瘤"
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "醉後一字已看e-5原像素，尚未可靠定字；候選不寫入忠實層。"
+      "reason": "本輪全頁與局部原像素再次實看，醉後一字仍不能可靠選碼；獨立稿寢僅為新增候選，不因其定讀而抹去單字未解。"
+    },
+    {
+      "id": "q1792-v020-p042-link",
+      "unit_id": "p042-c09",
+      "page_id": "p042",
+      "start": 23,
+      "end": 45,
+      "surface": "⟦g1792-p042-c09-link1⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "聯",
+        "銜",
+        "啣"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "參互後一複雜字在現存全頁與原像素等值顯示仍未可靠區分，初錄聯與獨立銜均不逕採，以單字字形ID保留位置。"
+    },
+    {
+      "id": "q1792-v020-p045-c08",
+      "unit_id": "p045-c08",
+      "page_id": "p045",
+      "start": 22,
+      "end": 23,
+      "surface": "凸",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "凹"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "底漸高後字凹／凸內外框細筆仍有歧義，兩稿同錄凸，本輪同讀高風險覆看後留疑，不按文意認定。"
+    },
+    {
+      "id": "q1792-v020-p046-c09",
+      "unit_id": "p046-c09",
+      "page_id": "p046",
+      "start": 7,
+      "end": 25,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "已看全頁與局部原像素，同一時間字首字複雜上下構形尚未可靠選碼；只把該單字改字形ID，睨與其餘文保留，不換現代時間單位。"
+    },
+    {
+      "id": "q1792-v020-p046-note-2",
+      "unit_id": "p046-note-2",
+      "page_id": "p046",
+      "start": 12,
+      "end": 13,
+      "surface": "畧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "略"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "小註此字田與各上下／並列關係在既有區域仍不完全可靠，暫保畧並列略，不由書名通行寫法代改。"
+    },
+    {
+      "id": "q1792-v020-p046-note-3",
+      "unit_id": "p046-note-3",
+      "page_id": "p046",
+      "start": 4,
+      "end": 22,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "已看全頁與局部原像素，同一時間字首字複雜上下構形尚未可靠選碼；只把該單字改字形ID，睨與其餘文保留，不換現代時間單位。"
+    },
+    {
+      "id": "q1792-v020-p047-c01",
+      "unit_id": "p047-c01",
+      "page_id": "p047",
+      "start": 25,
+      "end": 43,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "時間首字與前頁同形字群已覆圖，但碼位仍未定；本處其後脈字保留，不把獨立稿兩個未定占位當精確二字缺失。"
+    },
+    {
+      "id": "q1792-v020-p063-c05-1",
+      "unit_id": "p063-c05",
+      "page_id": "p063",
+      "start": 25,
+      "end": 43,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "全幅與局部原像素註首實核；時間字首上部構形仍未可靠選碼，沿同形g1792-time-first穩定字形ID，不採兩稿各自定字，不換現代單位；後字睨按本處保留。"
+    },
+    {
+      "id": "q1792-v020-p063-c06-1",
+      "unit_id": "p063-c06",
+      "page_id": "p063",
+      "start": 7,
+      "end": 25,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "全幅與局部原像素註首實核；時間字首上部構形仍未可靠選碼，沿同形g1792-time-first穩定字形ID，不採兩稿各自定字，不換現代單位；後字睨按本處保留。"
+    },
+    {
+      "id": "q1792-v020-p063-c06-2",
+      "unit_id": "p063-c06",
+      "page_id": "p063",
+      "start": 31,
+      "end": 49,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "全幅與局部原像素註首實核；時間字首上部構形仍未可靠選碼，沿同形g1792-time-first穩定字形ID，不採兩稿各自定字，不換現代單位；後字睨按本處保留。"
+    },
+    {
+      "id": "q1792-v020-p063-note-1-1",
+      "unit_id": "p063-note-1",
+      "page_id": "p063",
+      "start": 3,
+      "end": 21,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "全幅與局部原像素註首實核；時間字首上部構形仍未可靠選碼，沿同形g1792-time-first穩定字形ID，不採兩稿各自定字，不換現代單位；後字睨按本處保留。"
+    },
+    {
+      "id": "q1792-v020-p072-c04",
+      "unit_id": "p072-c04",
+      "page_id": "p072",
+      "start": 17,
+      "end": 35,
+      "surface": "⟦g1792-time-first⟧",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "extent": 1,
+      "candidates": [
+        "晷",
+        "瞥",
+        "暼"
+      ],
+      "cause": "reading-unresolved",
+      "status": "unresolved",
+      "reason": "時間首字同前面字群，上部構形仍未可靠選碼，保留g1792-time-first及候選；第二字目臼儿形睨可辨，不沿兩稿肌/胞。"
     },
     {
       "id": "q1792-initial-009",
@@ -143,27 +374,33 @@
       "surface": "□",
       "offset_basis": "unicode-codepoint-0-half-open",
       "extent": 1,
-      "candidates": [],
+      "candidates": [
+        "撐",
+        "捧",
+        "搖"
+      ],
       "cause": "image-insufficient",
       "status": "unresolved",
-      "reason": "本面全幅已讀，手後一字未定；末輪f-6實際區域偏右，沒有包含目標字。固定末輪後不再擴搜，單字仍保留。"
+      "reason": "兒手後單字的細筆仍未可靠判定；現有原像素局部偏離此字，不能據其定字。僅此一字留□，候選並非定讀，其後文字及刻點已可辨。"
     },
     {
-      "id": "q1792-initial-010",
-      "unit_id": "p069-c03",
-      "page_id": "p069",
-      "start": 2,
-      "end": 3,
-      "surface": "蛆",
+      "id": "q1792-v020-p125-u007-1",
+      "unit_id": "p125-u007",
+      "page_id": "p125",
+      "start": 9,
+      "end": 10,
+      "surface": "藥",
       "offset_basis": "unicode-codepoint-0-half-open",
       "extent": 1,
       "candidates": [
-        "蛆",
-        "蛭"
+        "藥",
+        "盪",
+        "蕩",
+        "灌"
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "採當處蟲且暫讀蛆，與p094蟲其蜞分開保存；讀法仍可回圖質詢。"
+      "reason": "兩稿有藥／灌差異；全幅與窄幅仍未可靠細分，保留藥暫讀並列候選，仍保留未解。"
     },
     {
       "id": "q1792-initial-011",
@@ -181,25 +418,27 @@
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "f-15字形實讀後仍保留原暫讀會，沒有依常見身體部位更改。"
+      "reason": "原像素局部實讀後仍保留會暫讀，未依常見身體部位名稱替換。"
     },
     {
-      "id": "q1792-initial-012",
-      "unit_id": "p101-note-1",
-      "page_id": "p101",
-      "start": 0,
-      "end": 13,
-      "surface": "驢乳味甘、川水攪和、宜沸湯",
+      "id": "q1792-v020-p145-u002-1",
+      "unit_id": "p145-u002",
+      "page_id": "p145",
+      "start": 10,
+      "end": 11,
+      "surface": "畢",
       "offset_basis": "unicode-codepoint-0-half-open",
-      "extent": null,
+      "extent": 1,
       "candidates": [
-        "驢乳味甘、川水攪和、宜沸湯"
+        "畢",
+        "單",
+        "蓽",
+        "薑"
       ],
       "cause": "reading-unresolved",
       "status": "unresolved",
-      "reason": "完整小註字面已補；末部短列的線性讀序及川字讀法保留未決，未變成未處理段落。"
+      "reason": "撥前字上部細構未定，疑似單／畢形；保留初稿畢暫讀，不以同書藥名或通行名回填。"
     }
   ],
-  "not_accuracy_measure": true,
-  "no_new_requests": true
+  "note": "紀錄數不等於缺字數；同形字群可有多處，仍需回原圖。"
 }

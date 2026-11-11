@@ -1,0 +1,702 @@
+{
+  "schema": "sinica1792-note-and-layout-anchors/2",
+  "version": "0.2.0",
+  "records": [
+    {
+      "unit_id": "cover-hand-above",
+      "page_id": "cover-upper",
+      "source_typography": {
+        "literal_plain_e_retained": true,
+        "raised_e_observed": true,
+        "not_invented_superscript_codepoint": true
+      }
+    },
+    {
+      "unit_id": "cover-hand-circle2",
+      "page_id": "cover-upper",
+      "source_typography": {
+        "literal_plain_e_retained": true,
+        "raised_e_observed": true,
+        "not_invented_superscript_codepoint": true
+      }
+    },
+    {
+      "unit_id": "p026-note01-r",
+      "page_id": "p026",
+      "attach_after_unit": "p026-c10",
+      "resume_at_unit": "p026-c11",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p026-note01-l",
+      "page_id": "p026",
+      "attach_after_unit": "p026-c10",
+      "resume_at_unit": "p026-c11",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p027-note-r",
+      "page_id": "p027",
+      "attach_after_unit": "p027-c08",
+      "resume_at_unit": "p027-c09",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p027-note-l",
+      "page_id": "p027",
+      "attach_after_unit": "p027-c08",
+      "resume_at_unit": "p027-c09",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p033-c07-after-note-v020",
+      "page_id": "p033",
+      "continuation_of_unit": "p033-c07",
+      "preceded_by_inline_note": "p033-note-1"
+    },
+    {
+      "unit_id": "p033-note-1",
+      "page_id": "p033",
+      "attach_after_unit": "p033-c07",
+      "reading_order": "rightthenlefttwoshortcolumns"
+    },
+    {
+      "unit_id": "p034-note-1",
+      "page_id": "p034",
+      "attach_after_unit": "p034-c10",
+      "reading_order": "rightthenlefttwoshortcolumns"
+    },
+    {
+      "unit_id": "p043-c02-resume-v020",
+      "page_id": "p043",
+      "continuation_of_unit": "p043-c02",
+      "preceded_by_inline_note": "p043-note-1"
+    },
+    {
+      "unit_id": "p043-note-1",
+      "page_id": "p043",
+      "attach_after_unit": "p043-c02",
+      "resume_at_unit": "p043-c03",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p043-note-2",
+      "page_id": "p043",
+      "attach_after_unit": "p043-c03",
+      "resume_at_unit": "p043-c04",
+      "reading_order": "rightthenleft;columnattachmentinitialproposalrequiresROI"
+    },
+    {
+      "unit_id": "p043-note-3",
+      "page_id": "p043",
+      "attach_after_unit": "p043-c05",
+      "resume_at_unit": "p043-c06",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p044-note-1",
+      "page_id": "p044",
+      "attach_after_unit": "p044-c03",
+      "resume_at_unit": "p044-c04",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p046-c05-resume-v020",
+      "page_id": "p046",
+      "continuation_of_unit": "p046-c05",
+      "preceded_by_inline_note": "p046-note-1"
+    },
+    {
+      "unit_id": "p046-note-1",
+      "page_id": "p046",
+      "attach_after_unit": "p046-c05",
+      "resume_at_unit": "p046-c06",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p046-note-2",
+      "page_id": "p046",
+      "attach_after_unit": "p046-c06",
+      "resume_at_unit": "p046-c07",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p046-note-3",
+      "page_id": "p046",
+      "attach_after_unit": "p046-c09",
+      "resume_at_unit": "p046-c10",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p047-note-1",
+      "page_id": "p047",
+      "attach_after_unit": "p047-c10",
+      "resume_at_unit": "p047-c11",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p050-note-1",
+      "page_id": "p050",
+      "attach_after_unit": "p050-c03",
+      "resume_at_unit": "p050-c04",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p051-note-1",
+      "page_id": "p051",
+      "attach_after_unit": "p051-c01",
+      "resume_at_unit": "p051-c02",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p054-c06-resume-v020",
+      "page_id": "p054",
+      "continuation_of_unit": "p054-c06",
+      "preceded_by_inline_note": "p054-note-1"
+    },
+    {
+      "unit_id": "p054-note-1",
+      "page_id": "p054",
+      "attach_after_unit": "p054-c06",
+      "resume_at_unit": "p054-c06-resume-v020",
+      "reading_order": "rightthenleft-short-pair-at-c06-foot;continued-rightthenleft-pair-at-next-column-head;then-main-resumes"
+    },
+    {
+      "unit_id": "p057-note-1",
+      "page_id": "p057",
+      "attach_after_unit": "p057-c10",
+      "reading_order": "rightthenleft;continues-at-p058-upper-right-note-before-main",
+      "continues_on_face": "p058"
+    },
+    {
+      "unit_id": "p058-note-1",
+      "page_id": "p058",
+      "attach_before_unit": "p058-c01",
+      "reading_order": "rightthenleft;continues-from-p057-note-before-p058-main",
+      "continues_from_face": "p057"
+    },
+    {
+      "unit_id": "p061-note-1",
+      "page_id": "p061",
+      "attach_after_unit": "p061-c02",
+      "resume_at_unit": "p061-c03",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p063-note-1",
+      "page_id": "p063",
+      "anchor": {
+        "unit_id": "p063-c06",
+        "start": 0,
+        "end": 2,
+        "surface": "睨、",
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "relation": "after-prefix-before-remainder"
+      },
+      "attach_after_unit": "p063-c05",
+      "resume_at_unit": "p063-c06",
+      "reading_order": "rightthenleft;after-first-two-codepoints-of-p063-c06;then-resume-p063-c06-at-offset-2"
+    },
+    {
+      "unit_id": "p064-note-1",
+      "page_id": "p064",
+      "attach_after_unit": "p064-c09",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p065-note-1",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c03",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p065-note-2",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c04",
+      "resume_at_unit": "p065-c05",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p065-note-3",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c06",
+      "resume_at_unit": "p065-c07"
+    },
+    {
+      "unit_id": "p065-note-4",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c07",
+      "resume_at_unit": "p065-c08",
+      "source_typography": {
+        "segments": [
+          {
+            "start": 0,
+            "end": 2,
+            "text": "中尺",
+            "printed_size": "small-right-short-column"
+          },
+          {
+            "start": 2,
+            "end": 4,
+            "text": "四寸",
+            "printed_size": "main-sized-left-continuation"
+          }
+        ],
+        "note": "四寸印成主欄字大，但依中尺掛點另列換算註；不把混合字級扁成未記錄的統一細字。"
+      }
+    },
+    {
+      "unit_id": "p065-note-5",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c09",
+      "resume_at_unit": "p065-c10"
+    },
+    {
+      "unit_id": "p065-note-6",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c11",
+      "resume_at_unit": "p065-c12"
+    },
+    {
+      "unit_id": "p065-note-7",
+      "page_id": "p065",
+      "attach_after_unit": "p065-c12",
+      "resume_at_unit": "p065-c13"
+    },
+    {
+      "unit_id": "p066-note-1",
+      "page_id": "p066",
+      "attach_after_unit": "p066-c01",
+      "resume_at_unit": "p066-c02"
+    },
+    {
+      "unit_id": "p066-note-2",
+      "page_id": "p066",
+      "attach_after_unit": "p066-c02",
+      "resume_at_unit": "p066-c03"
+    },
+    {
+      "unit_id": "p066-note-3",
+      "page_id": "p066",
+      "attach_after_unit": "p066-c09",
+      "resume_at_unit": "p066-c10"
+    },
+    {
+      "unit_id": "p067-c02-resume-v020",
+      "page_id": "p067",
+      "continuation_of_unit": "p067-c02",
+      "preceded_by_inline_note": "p067-note-1"
+    },
+    {
+      "unit_id": "p067-note-1",
+      "page_id": "p067",
+      "attach_after_unit": "p067-c02",
+      "resume_at_unit": "p067-c02-resume-v020",
+      "reading_order": "rightthenleft;after-p067-c02;before-resumed-two-main-characters-you-ying"
+    },
+    {
+      "unit_id": "p067-note-2",
+      "page_id": "p067",
+      "attach_after_unit": "p067-c07",
+      "resume_at_unit": "p067-c08"
+    },
+    {
+      "unit_id": "p068-note-1",
+      "page_id": "p068",
+      "attach_after_unit": "p068-c05",
+      "resume_at_unit": "p068-c06"
+    },
+    {
+      "unit_id": "p068-note-2",
+      "page_id": "p068",
+      "attach_after_unit": "p068-c08",
+      "resume_at_unit": "p068-c09"
+    },
+    {
+      "unit_id": "p069-note-1",
+      "page_id": "p069",
+      "attach_after_unit": "p069-c01",
+      "resume_at_unit": "p069-c02",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p074-note-1",
+      "page_id": "p074",
+      "anchor": {
+        "unit_id": "p074-c01",
+        "start": 14,
+        "end": 17,
+        "surface": "皺紋、",
+        "offset_basis": "unicode-codepoint-0-half-open",
+        "relation": "after-range-before-remainder"
+      },
+      "attach_after_unit": "p074-c01",
+      "resume_at_unit": "p074-c02",
+      "reading_order": "rightthenleft;after-c01-printed-zhou-wen-mark-before-jin-xiao-yi-er"
+    },
+    {
+      "unit_id": "p074-note-2",
+      "page_id": "p074",
+      "attach_after_unit": "p074-c06",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p078-c05-resume-v020",
+      "page_id": "p078",
+      "continuation_of_unit": "p078-c05"
+    },
+    {
+      "unit_id": "p078-note-1",
+      "page_id": "p078",
+      "attach_after_unit": "p078-c04",
+      "resume_at_unit": "p078-c05",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p078-note-2",
+      "page_id": "p078",
+      "attach_after_unit": "p078-c07",
+      "resume_at_unit": "p078-c08",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p078-note-3",
+      "page_id": "p078",
+      "attach_after_unit": "p078-c10",
+      "resume_at_unit": "p078-c11",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p081-note-1",
+      "page_id": "p081",
+      "attach_after_unit": "p081-c10",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p082-note-1",
+      "page_id": "p082",
+      "attach_after_unit": "p082-c06",
+      "resume_at_unit": "p082-c07",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p083-note-1",
+      "page_id": "p083",
+      "attach_after_unit": "p083-c09",
+      "reading_order": "rightthenleftthreeshortcolumns"
+    },
+    {
+      "unit_id": "p086-note-1",
+      "page_id": "p086",
+      "attach_after_unit": "p086-c04",
+      "resume_at_unit": "p086-c05",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p087-note-1",
+      "page_id": "p087",
+      "attach_after_unit": "p087-c03",
+      "resume_at_unit": "p087-c04",
+      "reading_order": "rightthenleftfourcolumns;initialattachment"
+    },
+    {
+      "unit_id": "p089-note-1",
+      "page_id": "p089",
+      "attach_after_unit": "p089-c02",
+      "resume_at_unit": "p089-c03",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p098-note-1",
+      "page_id": "p098",
+      "attach_after_unit": "p098-c05",
+      "resume_at_unit": "p098-c06",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p101-note-1",
+      "page_id": "p101",
+      "attach_after_unit": "p101-c04",
+      "resume_at_unit": "p101-c05",
+      "reading_order": "right-long-small-column-through-yi-fei;then-left-single-tang;then-main-resumes-or-geng",
+      "source_typography": {
+        "note": "小字右長列末宜沸，左短列單湯；湯不併入後續大字或更在火上蒸。川照三豎原字，不依語意替用。"
+      }
+    },
+    {
+      "unit_id": "p102-note-1",
+      "page_id": "p102",
+      "attach_after_unit": "p102-c03",
+      "resume_at_unit": "p102-c04",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p105-note-1",
+      "page_id": "p105",
+      "attach_after_unit": "p105-c05",
+      "resume_at_unit": "p105-c06",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p107-note-1",
+      "page_id": "p107",
+      "attach_after_unit": "p107-c08",
+      "resume_at_unit": "p107-c09",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p108-note-1",
+      "page_id": "p108",
+      "attach_after_unit": "p108-c02",
+      "resume_at_unit": "p108-c03",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p108-note-2",
+      "page_id": "p108",
+      "attach_after_unit": "p108-c10",
+      "resume_at_unit": "p108-c11",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p109-note-1",
+      "page_id": "p109",
+      "attach_after_unit": "p109-c05",
+      "resume_at_unit": "p109-c06",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p110-note-1",
+      "page_id": "p110",
+      "attach_after_unit": "p110-c05",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p111-note-1",
+      "page_id": "p111",
+      "attach_after_unit": "p111-c04",
+      "resume_at_unit": "p111-c05",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p111-note-2",
+      "page_id": "p111",
+      "attach_after_unit": "p111-c09",
+      "resume_at_unit": "p111-c10",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p112-note-1",
+      "page_id": "p112",
+      "attach_after_unit": "p112-c05",
+      "resume_at_unit": "p112-c06"
+    },
+    {
+      "unit_id": "p112-note-2",
+      "page_id": "p112",
+      "attach_after_unit": "p112-c08",
+      "resume_at_unit": "p112-c09",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p113-note-1",
+      "page_id": "p113",
+      "attach_after_unit": "p113-c08",
+      "resume_at_unit": "p113-c09",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p113-note-2",
+      "page_id": "p113",
+      "attach_after_unit": "p113-c11",
+      "resume_at_unit": "p113-c12",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p115-note-1",
+      "page_id": "p115",
+      "attach_after_unit": "p115-c01",
+      "resume_at_unit": "p115-c02",
+      "reading_order": "rightthenleft"
+    },
+    {
+      "unit_id": "p125-u004",
+      "page_id": "p125",
+      "anchor": {
+        "parent_unit_id": "p125-u003",
+        "after_surface": "美酒",
+        "before_surface": "牛湯",
+        "status": "right of two source small-note columns next to 美酒; read before next small-note unit"
+      }
+    },
+    {
+      "unit_id": "p125-u005",
+      "page_id": "p125",
+      "anchor": {
+        "parent_unit_id": "p125-u003",
+        "after_surface": "美酒",
+        "before_surface": "牛湯",
+        "status": "left of two source small-note columns; follows 虛極者方, not the paragraph-end TXT row"
+      }
+    },
+    {
+      "unit_id": "p126-u005",
+      "page_id": "p126",
+      "anchor": {
+        "parent_unit_id": "p126-u004",
+        "after_surface": "膿炎二種、",
+        "before_surface": "日用",
+        "status": "right source small-note column, first part of a bibliographic cross-reference; not main body"
+      }
+    },
+    {
+      "unit_id": "p126-u006",
+      "page_id": "p126",
+      "anchor": {
+        "parent_unit_id": "p126-u004",
+        "after_surface": "膿炎二種、",
+        "before_surface": "日用",
+        "status": "left source small-note column; follows 詳西醫"
+      }
+    },
+    {
+      "unit_id": "p127-u009",
+      "page_id": "p127",
+      "anchor": {
+        "parent_unit_id": "p127-u008",
+        "after_surface": "水痘",
+        "status": "small source character immediately beside the heading"
+      }
+    },
+    {
+      "unit_id": "p139-u007",
+      "page_id": "p139",
+      "anchor": {
+        "parent_unit_id": "p139-u006",
+        "after_surface": "鐵鏽二錢",
+        "before_surface": "沒藥",
+        "status": "two small source columns, right then left"
+      }
+    },
+    {
+      "unit_id": "p139-u011",
+      "page_id": "p139",
+      "anchor": {
+        "parent_unit_id": "p139-u010",
+        "after_surface": "青礬末一錢",
+        "before_surface": "沒藥",
+        "status": "two small source columns; substitution note remains historical source wording"
+      }
+    },
+    {
+      "unit_id": "p139-u012",
+      "page_id": "p139",
+      "anchor": {
+        "parent_unit_id": "p139-u010",
+        "after_surface": "黃連膏",
+        "status": "small source note wraps to top of next physical column; not appended to final paragraph"
+      },
+      "parts": [
+        "如無",
+        "用蜜",
+        "亦可"
+      ]
+    },
+    {
+      "unit_id": "p139-u019",
+      "page_id": "p139",
+      "anchor": {
+        "parent_unit_id": "p139-u018",
+        "after_surface": "青礬",
+        "before_surface": "沒藥",
+        "status": "source small note adjacent to first ingredient"
+      },
+      "parts": [
+        "研細末或",
+        "鐵鏽亦可"
+      ]
+    },
+    {
+      "unit_id": "p140-u009",
+      "page_id": "p140",
+      "anchor": {
+        "parent_unit_id": "p140-u008",
+        "after_surface": "迦路米三釐",
+        "status": "source-checked-inline-note-after-first-ingredient"
+      },
+      "parts": [
+        "如無以水銀",
+        "散五釐代之"
+      ]
+    },
+    {
+      "unit_id": "p140-u012",
+      "page_id": "p140",
+      "anchor": {
+        "parent_unit_id": "p140-u011",
+        "after_surface": "有功力",
+        "status": "small source note beside this column; original ambiguity preserved"
+      },
+      "parts": [
+        "如無啞囉浙倍",
+        "用大黃亦可"
+      ]
+    },
+    {
+      "unit_id": "p142-u002",
+      "page_id": "p142",
+      "anchor": {
+        "parent_unit_id": "p142-u001",
+        "after_surface": "水銀散",
+        "status": "two printed small columns beside heading"
+      },
+      "parts": [
+        "又名銀",
+        "灰散"
+      ]
+    },
+    {
+      "unit_id": "p142-u010",
+      "page_id": "p142",
+      "anchor": {
+        "parent_unit_id": "p142-u009",
+        "after_surface": "各二錢",
+        "status": "source small note wraps to the next source column, retained separately"
+      },
+      "parts": [
+        "如無卽",
+        "不用亦",
+        "可"
+      ]
+    },
+    {
+      "unit_id": "p143-u008",
+      "page_id": "p143",
+      "anchor": {
+        "parent_unit_id": "p143-u007",
+        "after_surface": "硝",
+        "before_surface": "能微利",
+        "status": "two source small-note columns, not main ingredient continuation"
+      },
+      "parts": [
+        "或加生",
+        "薑少許"
+      ]
+    },
+    {
+      "unit_id": "p144-u005",
+      "page_id": "p144",
+      "anchor": {
+        "parent_unit_id": "p144-u004",
+        "after_surface": "角油",
+        "before_surface": "七日後",
+        "status": "small source note at source column top; attached to ingredient continuation"
+      },
+      "parts": [
+        "如無不",
+        "用亦可"
+      ]
+    }
+  ],
+  "order_note": "檔案單元序是分層交換序；正文中途的小註及續文須依錨點閱讀。"
+}

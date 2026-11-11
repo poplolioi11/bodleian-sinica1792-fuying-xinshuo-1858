@@ -2,7 +2,7 @@
   "schema": "scholarly-historical-dataset-metadata/1",
   "resource_type": "dataset",
   "title": "婦嬰新說 / Fu ying xin shuo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "creators": [
     {
       "name": "Chu, Chen-Yu",
@@ -41,12 +41,12 @@
   ],
   "descriptions": {
     "abstract": {
-      "zh": "《婦嬰新說》（Fu ying xin shuo）由合信氏（Benjamin Hobson）著、管茂材同撰，館目著錄為1858年上海仁濟醫館本，論述女性生殖解剖、妊娠、分娩、嬰幼兒疾病及當時方藥，並附醫學圖說。本資料集依牛津Bodleian Libraries, University of Oxford所藏Sinica 1792，提供128面忠實轉錄，以及p129–137九面的版本與流通史導讀；導讀不收該章操作正文。JSON、TXT及TEI保留原字、原刻句讀、細註、圖中文字及來源對應，可供醫學史、翻譯史與圖說研究初步檢索及回圖查核。v0.1.0為AI影像初錄及同底本補錄，尚未套用獨立二校，保留12條有限未解紀錄，未經人類全文核對。",
-      "en": "Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. This dataset draws on Bodleian Libraries, University of Oxford, Sinica 1792. It provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without reproducing that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the witness, for preliminary research in medical history, translation and illustration. Version 0.1.0 is an AI image transcription with same-witness supplementation; independent collation has not been applied. Twelve bounded uncertainty records remain, and no human full-text collation is claimed."
+      "zh": "《婦嬰新說》（Fu ying xin shuo）由合信氏（Benjamin Hobson）著、管茂材同撰，館目著錄為1858年上海仁濟醫館刊本，論述女性生殖解剖、妊娠、分娩、嬰幼兒疾病及當時方藥，並附醫學圖說。資料可供醫學史、翻譯史與圖說研究初步檢索、定位及回圖查核。本版依牛津Bodleian Libraries所藏Sinica 1792，提供128面忠實轉錄及p129–137九面的版本與流通史導讀，導讀不收該章操作正文；JSON、TXT及TEI保留原字、原刻句讀、細註、圖字與官方原件連結。v0.2.0經獨立AI讀稿比較及逐面非盲回圖裁定，未經人類全文校勘，疑讀已標記。",
+      "en": "Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. The dataset supports preliminary searching, location and image checking for medical history, translation and illustration research. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this edition provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the original. Version 0.2.0 uses independent AI reading comparison followed by nonblind, face-by-face source adjudication; no human full-text collation has been performed, and uncertainties are marked."
     },
     "methods": {
-      "zh": "以牛津Sinica 1792的固定影像為唯一取文底本，題頁與館目所載年代和當冊實際印次分開；當冊實際印次未知。逐面閱讀128面，再對細註與圖中文字使用必要局部原圖補錄；不以異本或現代常用詞覆蓋原字。頁、文字單元、正文、細註、圖題、圖字及版心分層保存，小註另留主欄錨點。保留原刻句讀、異體及疑似訛字，未定處以□、穩定字形ID及候選紀錄表示，沒有加入現代閱讀標點。p129–137九面僅提供版本與流通史導讀，不轉錄該章操作正文。JSON主本機械衍生TXT及TEI，逐單元核對文字、順序、來源及疑讀位置；TEI另作官方P5 4.12.0 Relax NG文法驗證。這些檢查不證明讀字準確率。此版為AI影像初錄及同底本補錄，未套用獨立二校；人類全文核對、專家與同儕審查均未執行，精確AI模型型號未確認。公開方法僅為高層說明；未公開提示、程式、裁片與完整工作紀錄，因此不能單靠本包從原圖重跑全部辨讀過程。",
-      "en": "The fixed images of Bodleian Sinica 1792 are the sole transcription witness. The catalogue records an 1858 Shanghai edition; the actual impression of this copy is unknown. All 128 included faces were read, with necessary local image details used to supplement small notes and diagram labels. Other editions and modern terminology do not replace source forms. Pages, units and textual roles are preserved separately, including note anchors, printed punctuation, variants and possible source errors. Unresolved readings retain squares, stable glyph identifiers and candidate records. The nine faces p129–137 receive only a bibliographical and circulation-history guide. TXT and TEI are mechanically derived from the JSON master and checked for unit strings, order, sources and uncertainty positions; TEI also receives official P5 4.12.0 Relax NG validation. These checks do not establish transcription accuracy. This version contains AI initial transcription and same-witness supplementation, without incorporated independent collation or human full-text, expert or peer review. The exact AI model identifier is unconfirmed. Only a high-level method is public; prompts, production code, crops and complete work records are excluded, so the full image-reading process cannot be rerun from this package alone."
+      "zh": "固定牛津Sinica 1792影像為唯一取文底本。初錄v0.1.0公開後，才開封未見初錄的獨立AI讀稿；本輪裁定者已看兩稿，且承接初錄脈絡，因此是非盲來源裁定。全128面實際回圖，比較差異，同時覆看兩稿相同但有風險的原字、數字、句讀、小註及圖字，另作整頁盤點。必要局部影像只保留原像素，不增墨；未以通行本、現代詞或數值關係補正文。新增漏錄及刪除同處重錄均見CHANGES，細註附著處見ANCHORS，未解字與字形群見UNCERTAINTIES及GAIJI。p129–137九面仍只作版本與流通史導讀，未轉錄該章操作正文。館目1858年與題頁刊記提供版本背景，當冊印次、成書及掃描日期仍未知。\n\nJSON主本機械衍生TXT與TEI，逐單元核字串、順序、來源及疑讀位置，另以官方TEI P5 4.12.0 Relax NG及CFF 1.2完整schema驗證。這些是格式和追溯檢查，不是全文準確率。實際原生模型、effort、tokens、現金用量及人工逐字時間未回報，均保持未知；語義追溯檢查因unknown-model真實回傳exit 3，未稱完全通過。人類全文校勘、專家及同儕審查均未執行，也沒有測得字誤率。只有高層方法公開，提示、專用程式、裁片及完整工作紀錄不公開，不能單靠本包重跑全部讀字流程。",
+      "en": "The fixed images of Bodleian Sinica 1792 are the sole transcription witness. Only after v0.1.0 was publicly released was the sealed, independently produced AI reading opened. The adjudicator saw both readings and continued the initial-transcription context, so this stage is explicitly nonblind. All 128 faces were viewed again, comparing differences and checking concordant high-risk characters, numbers, punctuation, notes and labels, with whole-face inventory. Necessary details preserve source pixels. Other editions, modern terminology and numerical relationships do not supply source text. The nine guide-only faces remain excluded from transcription. Actual impression, composition and scan dates remain unknown. Mechanical JSON/TXT/TEI checks and schema validation do not measure accuracy. Exact native model, effort, token and cash counters remain unknown; the semantic provenance check retains a real exit 3 for unknown-model. Human full-text, expert and peer review were not performed. Only this high-level method is public; the complete reading process cannot be rerun from the released package alone."
     }
   },
   "keywords": [
@@ -152,7 +152,7 @@
   },
   "coverage": {
     "transcribed_faces": 128,
-    "transcription_units": 1498,
+    "transcription_units": 1504,
     "guide_only_faces": [
       "p129",
       "p130",
@@ -170,15 +170,16 @@
     "not_all_physical_faces_transcribed": true
   },
   "quality": {
-    "stage": "initial-image-transcription-with-same-witness-supplementation",
-    "independent_collation_applied": false,
+    "stage": "independent-ai-reading-comparison-and-nonblind-source-adjudication",
+    "independent_collation_applied": true,
     "human_full_collation": "not-run",
     "expert_review": "not-run",
     "peer_review": "not-run",
     "measured_character_accuracy": null,
-    "uncertainty_records": 12,
+    "uncertainty_records": 25,
     "actual_ai_model": null,
-    "methods_file": "METHODS.md"
+    "methods_file": "METHODS.md",
+    "nonblind_source_adjudication_applied": true
   },
   "license": {
     "id": "cc-by-4.0",
@@ -212,13 +213,18 @@
     "text": "text.txt",
     "tei": "text.tei.xml",
     "uncertainties": "UNCERTAINTIES.json",
-    "methods": "METHODS.md"
+    "methods": "METHODS.md",
+    "anchors": "ANCHORS.json",
+    "gaiji": "GAIJI.json",
+    "adjudication": "ANNOTATIONS.json",
+    "whole_page_layers": "WHOLE-PAGE-LAYERS.json",
+    "historical_context": "HISTORICAL-CONTEXT.json"
   },
   "fixed_text_integrity": {
-    "book_json_sha256": "404f692e4840206d564fcade385faf294df5587eeb490696b391601775dc3b29",
-    "txt_sha256": "6b30df77d226ed0bdf9195e4a7f98f048110732342dd01090180fdd5dc89c230",
-    "tei_text_subtree_sha256": "de15b1175729bd18cfda929824e06c013568200157d174ff58af4629918173ae",
-    "source_body_changed": false,
-    "tei_header_documentation_updated": true
+    "book_json_sha256": "6ca89bdc4b237158887efbd61d3822b20f8d6f997c66890531babe4d9f08f28b",
+    "txt_sha256": "0e28349db401c389ea1456fe75d2e1a586a612a374447ba2e1268ef2fc79213a",
+    "tei_text_subtree_sha256": "9a3aaa6ac0731631fabc04ae056a13213dfa93477fe31ff56c878601467524fc",
+    "source_body_changed_from_v010": true,
+    "all_public_unit_strings_equal_fixed_adjudicated_master": true
   }
 }

@@ -1,94 +1,123 @@
 {
-  "schema": "sinica1792-public-initial-package/1",
-  "version": "0.1.0",
+  "schema": "sinica1792-public-package/2",
+  "version": "0.2.0",
+  "title": "婦嬰新說 / Fu ying xin shuo",
   "stats": {
     "faces": 128,
-    "units": 1498,
-    "codepoints_in_units": 25535,
+    "guide_only_faces": 9,
+    "units": 1504,
+    "added_units": 9,
+    "removed_duplicate_units": 3,
+    "changed_existing_units": 744,
+    "change_records": 756,
+    "uncertainty_records": 25,
+    "gaiji_groups": 6,
+    "gaiji_occurrences": 13,
+    "blank_square_occurrences": 2,
+    "codepoints_in_units": 26089,
     "source_punctuation_counts": {
-      "、": 2009,
+      "、": 2277,
       "○": 37
     },
-    "unresolved_records": 12,
-    "unknown_quantity_gaps": 0,
-    "blank_square_occurrences": 4,
-    "gaiji_marker_groups": 3
+    "source_adjudicated_faces": 128,
+    "human_full_collation": "not-run",
+    "measured_character_accuracy": null
   },
   "files": {
     "ABSTRACT.zh-en.md": {
-      "sha256": "bcd9cc294507858054e1c076a0515c968d92a7bff65a8414574d7976ab70d3e1",
-      "bytes": 1886
+      "sha256": "bfefa94013000ce508545a09ff89b1b65cb4e11e1e0ecd63138001c43dd873f5",
+      "bytes": 1701
+    },
+    "ANCHORS.json": {
+      "sha256": "b44321fe172e2a243d4ed757012fc064def88077f69185344a24ba8719ddf9da",
+      "bytes": 19229
+    },
+    "ANNOTATIONS.json": {
+      "sha256": "2caa3904a93f668f1da0c465a07a95a065d7067c06ba0e288a7df513beb86a20",
+      "bytes": 501003
     },
     "CHANGES.json": {
-      "sha256": "a460c2e0b2250c71daee5a950d286c1fe9f019a87eeb886ea284d64504509e45",
-      "bytes": 331443
+      "sha256": "cca093016336c64717d6fe03718f575aa2622f83471bfaa4a121fa55c9516da3",
+      "bytes": 277653
     },
     "CITATION.cff": {
-      "sha256": "6afa08fe152fc7ce41a838c5c0b2af93d11a93701319b2cec67e272efb3e8454",
-      "bytes": 1872
+      "sha256": "fb66df2e4be9ceeb425925a450055a442ab76ff71eba527fe390021172c08530",
+      "bytes": 1893
     },
     "DATA-DICTIONARY.md": {
       "sha256": "0f42022975160927db57b44b6f7ed1964d56c14f5bf7b29a199c96c58a289314",
       "bytes": 1054
+    },
+    "GAIJI.json": {
+      "sha256": "f5e8dd93ea7cd6aea83b1aeba869d1805f056919ae6bd0992d7099bac92f0fdd",
+      "bytes": 3935
+    },
+    "HISTORICAL-CONTEXT.json": {
+      "sha256": "8bb10211cb6681bf0a7c4188e2696e7d3c07dffbef2fbafc6b6fc9e4f5a81353",
+      "bytes": 7864
     },
     "LICENSE.md": {
       "sha256": "3dfa80fca794d18a474aac42106a326ec4094734f1a148be0d32eac4aa07b51a",
       "bytes": 942
     },
     "METADATA.json": {
-      "sha256": "4b892aa7f9c1bbc7bc0a5f66f4def356c65255620ea909ec70d090cf3f464328",
-      "bytes": 10578
+      "sha256": "7bfce4f5da4668a0f5556a2de8bdefd5683654d45177145f521a2f9be3bfaa96",
+      "bytes": 10941
     },
     "METHODS.md": {
-      "sha256": "e24488dc975fdc3518d6b88ed3dec8a1d7df78e5b183671d331c48d76df2d29e",
-      "bytes": 2405
+      "sha256": "9a1b466f1d6c18e61deede5329579ce542e75f2a3429b427da5b9232ae09d0f3",
+      "bytes": 2500
     },
     "POLICY.md": {
-      "sha256": "bfd1a475ebe91a145278d15e7adcbc1e777b3e42250aed294a8bfc00120f1677",
-      "bytes": 1501
+      "sha256": "a4d03aac58f8887800856a8f70d60d0f89eabcb585ce30f018cd873d38f579cc",
+      "bytes": 1516
     },
     "QUALITY-AND-CONTRIBUTIONS.md": {
-      "sha256": "d072f96610d0d738b447e36a2b2c5ebb40bc258f7c67a6f23a80bd8b188d74dd",
-      "bytes": 1127
+      "sha256": "bce0b8b1a6b301043e4ac9ba3ad2f3f4a104bf6fde64128551b04832025df56d",
+      "bytes": 1324
     },
     "READING-GUIDE.md": {
-      "sha256": "74482f83f2afb5e1382d872ff6e3d5f704e6fd773fea48cbbe855f42c8e43f5d",
-      "bytes": 1209
+      "sha256": "ef0f9b59f37da18f3761bf5df8a86a66110dba3a9f406a8ca026698ca6ae9a75",
+      "bytes": 1460
     },
     "README.md": {
-      "sha256": "45346300dca12914576ccd60cc11662a8241a445656f1a055c7962c3ef1a9a20",
-      "bytes": 3651
+      "sha256": "5422bf261bfbb72410b960db699af860a7830e0226c0da5d5b10249c86e4f890",
+      "bytes": 2997
     },
     "STATS.json": {
-      "sha256": "a692376d3a61c61d7637b18fe4638815249712cff4abcd40efaa4c626292a9e9",
-      "bytes": 256
+      "sha256": "220ed6f9723debe2aaf2332c5a1af5a9d9004f84ee2c0010f8c06004ef533634",
+      "bytes": 493
     },
     "UNCERTAINTIES.json": {
-      "sha256": "b151a95f6f97c80ec41bb72abc900f552ef3a6e206fa55086f290e9f40233cda",
-      "bytes": 5789
+      "sha256": "a7e6059f9ef7ea306583205b9b28fccc3dc32e19de7f1954c5c2aaac28f940eb",
+      "bytes": 13993
+    },
+    "WHOLE-PAGE-LAYERS.json": {
+      "sha256": "2620a262419e774eb55b9cf2503d00e337c8ccbbeee4c92a0ccb5499156c546e",
+      "bytes": 77662
     },
     "book.json": {
-      "sha256": "404f692e4840206d564fcade385faf294df5587eeb490696b391601775dc3b29",
-      "bytes": 621128
+      "sha256": "6ca89bdc4b237158887efbd61d3822b20f8d6f997c66890531babe4d9f08f28b",
+      "bytes": 652613
     },
     "tei.sidecar.json": {
-      "sha256": "7f0fc81579ad303c1b99b0e587dfc390100bf14206c493600973aaf86838af85",
-      "bytes": 176185
+      "sha256": "6de2d72dc24f1c27c1f8321e67050a66941778ab3f1fd55e797498c468febc96",
+      "bytes": 176853
     },
     "text.sidecar.json": {
-      "sha256": "e70c97ee69fd8c7b6bd45d208d6214d3aac6899bf972302a5be091077e699db7",
-      "bytes": 186973
+      "sha256": "c348063be71adabcad85b08e1ef0179da3e485d7a701cdff2583e5a4eaadce88",
+      "bytes": 187783
     },
     "text.tei.xml": {
-      "sha256": "d2755dbfc2e198d27e3d04a5ee1beb927896ef501cbdecdab2a8b739cbd32646",
-      "bytes": 178983
+      "sha256": "42dfa834bc0e13ad466d2a2299d9d4f5526c52cbd37d0fa6391f409999bc10cf",
+      "bytes": 180545
     },
     "text.txt": {
-      "sha256": "6b30df77d226ed0bdf9195e4a7f98f048110732342dd01090180fdd5dc89c230",
-      "bytes": 77514
+      "sha256": "0e28349db401c389ea1456fe75d2e1a586a612a374447ba2e1268ef2fc79213a",
+      "bytes": 78772
     }
   },
   "text_only": true,
-  "public_images_included": false,
-  "remote_published": false
+  "source_images_included": false,
+  "faithful_normalization": "none"
 }

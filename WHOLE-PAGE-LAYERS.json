@@ -1,0 +1,2255 @@
+{
+  "schema": "sinica1792-whole-page-layers/2",
+  "version": "0.2.0",
+  "review_role": "nonblind-ai-source-adjudicator",
+  "pages": [
+    {
+      "page_id": "p001",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d23831e2-5753-4f1a-9d3f-a3f0f57893a6.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p003",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d3100de1-0353-4b46-adbc-69cebbbb34d2.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "cover-upper",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2401ebd1-e2c5-4f37-9124-a8d0dd00fc3e.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "cover-hand-circle1"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p007",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8ca4b4a-0fb8-4ff5-a826-0a0d7733a280.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p008",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d13c781d-496f-4e30-a396-facff09a5299.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p009",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d13c781d-496f-4e30-a396-facff09a5299.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p010",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6dbddc15-52d5-4d50-b0bf-d775c1f8a02c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p011",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6dbddc15-52d5-4d50-b0bf-d775c1f8a02c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p012",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cbef41d5-e356-4fef-b3cd-98b0bfde6fe7.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p013",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cbef41d5-e356-4fef-b3cd-98b0bfde6fe7.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p014",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ab4028ab-2eb1-4c17-b11c-0616ade515db.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p015",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ab4028ab-2eb1-4c17-b11c-0616ade515db.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p004",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0d2e2976-2d3c-4be0-baef-d84d508b5e8c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p004-c04"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p005",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0d2e2976-2d3c-4be0-baef-d84d508b5e8c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p005-c05"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p016",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ccbc7649-4db6-4ac7-9d4a-5653ec47ba75.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p017",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ccbc7649-4db6-4ac7-9d4a-5653ec47ba75.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p018",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac72af69-b25d-475c-bf59-53f851a6a211.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p018-lower-bottom-label-v020"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p019",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ac72af69-b25d-475c-bf59-53f851a6a211.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p019-upper-note"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p020",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3479b36c-f58c-4b76-a7b3-518181290a95.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p021",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3479b36c-f58c-4b76-a7b3-518181290a95.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p022",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5f31c490-ee9a-429b-a948-6538a45d97be.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p023",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5f31c490-ee9a-429b-a948-6538a45d97be.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p024",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd8d7f5c-063b-4b53-8e0f-a772b80e43e3.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [
+        {
+          "layer": "figure-adjacent-ink",
+          "observation": "斜排細墨，未決是否文字及是否一字。",
+          "transcribed_as_text": false
+        }
+      ],
+      "human_review": false
+    },
+    {
+      "page_id": "p025",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd8d7f5c-063b-4b53-8e0f-a772b80e43e3.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p026",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/80d7e9fa-9f44-4a5e-b9a6-90287b289a0b.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p027",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/80d7e9fa-9f44-4a5e-b9a6-90287b289a0b.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p028",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e70185ee-95ab-4e5b-9196-6ff1767eebc0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p029",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e70185ee-95ab-4e5b-9196-6ff1767eebc0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p030",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8c04d3b4-0587-44d7-8be1-c150dc6c8832.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p031",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8c04d3b4-0587-44d7-8be1-c150dc6c8832.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p032",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/76c54817-6f0e-44ad-a6b9-950fdb1e7c18.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p032-c05",
+        "p032-c07"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p033",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/76c54817-6f0e-44ad-a6b9-950fdb1e7c18.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p034",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3bc98a8f-3a6f-4835-82b0-b8dd7312bf09.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p034-c11"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p035",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3bc98a8f-3a6f-4835-82b0-b8dd7312bf09.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p035-c03"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p036",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f1657645-9b3f-4671-81d5-714f17942368.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p037",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f1657645-9b3f-4671-81d5-714f17942368.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p038",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/98dc0a04-1d3c-4655-ad90-f80e5318bb9f.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p039",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/98dc0a04-1d3c-4655-ad90-f80e5318bb9f.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p041",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2591f81a-9d1e-4e45-856d-72d6d1bd07d4.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p041-c04"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p042",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e78e2155-f2bc-45cb-ae87-eec51728e09c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p042-c09"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p044",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5e777d81-fdf9-43c7-b32a-b4d866a523b0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p045",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5e777d81-fdf9-43c7-b32a-b4d866a523b0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p045-c08"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p046",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f1335674-2bbe-4e17-8299-a1c1d1ac499d.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p046-c09",
+        "p046-note-3",
+        "p046-note-2"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p047",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f1335674-2bbe-4e17-8299-a1c1d1ac499d.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p047-c01"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p048",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a14d9078-942a-41bc-9f28-2180b2558603.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p043",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e78e2155-f2bc-45cb-ae87-eec51728e09c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [
+        {
+          "layer": "isolated-ink-mark",
+          "observation": "右字旁孤立黑點位置不同於下端句讀；是否原刻點或斑墨未定，未增入文字。",
+          "transcribed_as_text": false
+        }
+      ],
+      "human_review": false
+    },
+    {
+      "page_id": "p049",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a14d9078-942a-41bc-9f28-2180b2558603.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p050",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/daad05a7-d5c4-44bb-ac34-b10eadb3e4bf.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p051",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/daad05a7-d5c4-44bb-ac34-b10eadb3e4bf.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p052",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/aabda620-d42d-4dc7-ac6d-ecc945a57ed8.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p053",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/aabda620-d42d-4dc7-ac6d-ecc945a57ed8.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p055",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/edb2874f-6fbb-496e-aeef-bc38fe71ff53.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p056",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1ff03550-bf1c-4238-a887-617da2879e89.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p054",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/edb2874f-6fbb-496e-aeef-bc38fe71ff53.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p057",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1ff03550-bf1c-4238-a887-617da2879e89.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p058",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b012a324-9a39-4685-814f-bf745beb9a5c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p059",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b012a324-9a39-4685-814f-bf745beb9a5c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p060",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5afd86ee-7073-43d1-9a97-421e5307e150.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p061",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5afd86ee-7073-43d1-9a97-421e5307e150.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p063",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/848f03cc-bee3-4deb-9811-689ad7997820.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        {
+          "units": [
+            "p063-c05",
+            "p063-c06",
+            "p063-note-1"
+          ],
+          "type": "same-time-glyph-first-character-unresolved",
+          "gaiji_id": "g1792-time-first",
+          "occurrences": 4
+        }
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p064",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bba77f7f-de9a-4394-8932-c7e5b947e7ad.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p066",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8281570-bb79-4525-bf5f-9ae730030ed0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p067",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8281570-bb79-4525-bf5f-9ae730030ed0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p068",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9f8e4e09-40f9-4eb1-8f18-a229e1824d87.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p069",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9f8e4e09-40f9-4eb1-8f18-a229e1824d87.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p065",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bba77f7f-de9a-4394-8932-c7e5b947e7ad.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p071",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ca6c8c3e-6485-4a1d-933a-ba04665c26cc.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p072",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c7cdfbd4-24f5-4a6e-ad65-b18be8dd32cc.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        {
+          "unit": "p072-c04",
+          "type": "time-first-character-unresolved",
+          "gaiji_id": "g1792-time-first"
+        }
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p073",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c7cdfbd4-24f5-4a6e-ad65-b18be8dd32cc.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p074",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0d561ce9-2d0c-4c8a-b546-80cd51e3dcae.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p075",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0d561ce9-2d0c-4c8a-b546-80cd51e3dcae.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p076",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a76bbd7c-e715-4cfb-9134-f39a3640a8bb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p077",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a76bbd7c-e715-4cfb-9134-f39a3640a8bb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p079",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2fcbfed2-c81b-4c6e-b019-9488b8b27345.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p080",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/97005dc4-f845-4b72-930a-e6fd06e0af6c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p081",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/97005dc4-f845-4b72-930a-e6fd06e0af6c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p082",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc7c58e1-f3d5-471a-99ff-76efb2a54c56.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p083",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc7c58e1-f3d5-471a-99ff-76efb2a54c56.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p084",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/aeae5b71-1164-43fe-98b4-5236fe301f1c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p085",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/aeae5b71-1164-43fe-98b4-5236fe301f1c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p086",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6f45ff04-26b5-4e8f-812d-963c864b692a.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        {
+          "unit": "p086-c04",
+          "surface": "□",
+          "extent": 1,
+          "reason": "全幅及NEAREST局部實看，手後單字細筆仍未可靠；既有f-6原像素實際偏右只含用大力防母，不是目標字，不能藉其宣稱定字。僅此一字留□，候選撐/捧/搖非定字；過字及後續原點已可讀。"
+        }
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p087",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6f45ff04-26b5-4e8f-812d-963c864b692a.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p088",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5056f4e5-6ae7-4e8d-b55a-0f8582a8b9db.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p089",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5056f4e5-6ae7-4e8d-b55a-0f8582a8b9db.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p090",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/78ebabcd-410c-400c-805e-f3c7d4611778.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p078",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2fcbfed2-c81b-4c6e-b019-9488b8b27345.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p091",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/78ebabcd-410c-400c-805e-f3c7d4611778.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p093",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/71fa575f-e5db-4a5c-9996-2c42113908a7.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p094",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/489d988c-1d2b-4665-ab1b-6ede3bddfcbb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p095",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/489d988c-1d2b-4665-ab1b-6ede3bddfcbb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p096",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cb086fa1-706a-4605-9828-70637e75a24c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p097",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cb086fa1-706a-4605-9828-70637e75a24c.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p098",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd6aafdf-65e1-45d4-9d09-2596ed77f54a.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p099",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bd6aafdf-65e1-45d4-9d09-2596ed77f54a.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p100",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/19393144-3110-484c-bec2-b8e236099622.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p101",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/19393144-3110-484c-bec2-b8e236099622.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p102",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f0f07404-28b1-48f8-8bc3-cf7a321254d0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p103",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f0f07404-28b1-48f8-8bc3-cf7a321254d0.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p104",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/071becb3-041a-4c88-97db-ce2198e2f36f.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p105",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/071becb3-041a-4c88-97db-ce2198e2f36f.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p107",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4d84d321-7106-46a4-8e90-2d8eb7c3196d.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p108",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cd8ecdc7-c01d-4203-b89b-48c10e07379b.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p109",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cd8ecdc7-c01d-4203-b89b-48c10e07379b.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p110",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4b127ef-eae1-4e2e-a083-2ba803a4f1eb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p111",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a4b127ef-eae1-4e2e-a083-2ba803a4f1eb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p112",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cf5ad9e6-b1a2-4c97-9460-839ed9226562.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p113",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cf5ad9e6-b1a2-4c97-9460-839ed9226562.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p114",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c4cd3bc4-6500-4848-9c2c-382246aa72fb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p115",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c4cd3bc4-6500-4848-9c2c-382246aa72fb.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p117",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3f1f2b4d-daf0-44ca-a0eb-604d0057f4a3.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p118",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ab05172-112c-4b43-8e34-2c5ef663f158.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p119",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3ab05172-112c-4b43-8e34-2c5ef663f158.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p121",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b83f40d1-e414-4181-82b1-7ba047b14747.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p122",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/15661503-b821-40e0-a8f3-f0fdbb32cfe6.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p123",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/15661503-b821-40e0-a8f3-f0fdbb32cfe6.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p124",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5c5bbe95-7e3b-4c98-a3dc-d877766f4b6e.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p125",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5c5bbe95-7e3b-4c98-a3dc-d877766f4b6e.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p125-u007"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p126",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3d9a1c9b-a910-4fc7-9f0f-906375f663b2.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p127",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3d9a1c9b-a910-4fc7-9f0f-906375f663b2.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p127-u010"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p139",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ad409a16-1471-4c5c-908b-0ab3100a7fd9.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p140",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0cae2e3a-47ec-4480-b244-acfc27b6a502.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p141",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0cae2e3a-47ec-4480-b244-acfc27b6a502.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p142",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f73bdf6f-9b7d-4d6d-a348-811ff2b89fef.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p143",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f73bdf6f-9b7d-4d6d-a348-811ff2b89fef.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p144",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6b74e04d-c5a3-47c2-ae6a-5006360ac72a.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p145",
+      "status": "source-adjudicated-with-unresolved",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6b74e04d-c5a3-47c2-ae6a-5006360ac72a.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [
+        "p145-u002"
+      ],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p146",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8eebadfe-f881-4d09-a284-a6e99a68ec0d.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    },
+    {
+      "page_id": "p147",
+      "status": "source-adjudicated",
+      "source_uri": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8eebadfe-f881-4d09-a284-a6e99a68ec0d.json",
+      "whole_face_source_read": true,
+      "high_risk_layers_checked": [
+        "printed-punctuation",
+        "small-notes-and-anchors",
+        "diagram-labels-and-caption-distinction",
+        "gaiji-or-unresolved",
+        "printed-folio-and-library-marks",
+        "numbers-or-rare-variants"
+      ],
+      "unresolved_unit_ids": [],
+      "ambiguous_source_marks": [],
+      "human_review": false
+    }
+  ],
+  "limitation": "已作原圖盤點並非人類校勘或測得準確率。"
+}

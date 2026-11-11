@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: 請引用實際使用的固定版本。歷史原文與現代整理說明的權利範圍分見POLICY.md。
 type: dataset
 title: 婦嬰新說 / Fu ying xin shuo
-version: 0.1.0
+version: 0.2.0
 date-released: '2026-11-12'
 url: https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858
 authors:
@@ -10,7 +10,7 @@ authors:
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
   website: https://github.com/poplolioi11
-abstract: Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. This dataset draws on Bodleian Libraries, University of Oxford, Sinica 1792. It provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without reproducing that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the witness, for preliminary research in medical history, translation and illustration. Version 0.1.0 is an AI image transcription with same-witness supplementation; independent collation has not been applied. Twelve bounded uncertainty records remain, and no human full-text collation is claimed.
+abstract: Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. The dataset supports preliminary searching, location and image checking for medical history, translation and illustration research. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this edition provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the original. Version 0.2.0 uses independent AI reading comparison followed by nonblind, face-by-face source adjudication; no human full-text collation has been performed, and uncertainties are marked.
 keywords:
 - 婦嬰新說
 - Fu ying xin shuo
