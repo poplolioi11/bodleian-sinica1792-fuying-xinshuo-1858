@@ -13,3 +13,7 @@ Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai an
 book.json為完整主本，TXT及TEI與其sidecar由同一字串衍生。請連同[閱讀說明](READING-GUIDE.md)、[方法](METHODS.md)、[品質](QUALITY-AND-CONTRIBUTIONS.md)、[疑讀](UNCERTAINTIES.json)、[錨點](ANCHORS.json)及[版本變動](CHANGES.json)使用。TEI是最小交換投影，未建立完整校勘apparatus。
 
 整理者：曲宸宇／Chu, Chen-Yu（[ORCID](https://orcid.org/0009-0003-9738-6914)）；poplolioi11為同一人帳號。新增可著作說明及書目整理採CC BY 4.0，歷史原文不新增限制，來源影像條件另見[POLICY.md](POLICY.md)及[LICENSE.md](LICENSE.md)。本包不含影像。館方提供原件，不表示認可本轉錄。
+
+[0.1.0 DOI](https://doi.org/10.5281/zenodo.24147453) · [0.2.0 DOI](https://doi.org/10.5281/zenodo.24147963) · [所有版本](https://doi.org/10.5281/zenodo.24147452) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858/releases/tag/v0.2.0) · [醫學史社群](https://zenodo.org/communities/late-qing-medical-history/)
+
+本主分支於固定版公開後補入 DOI 與引用連結。SHA256SUMS 驗證固定 release 內容；封存包保留製備時的文件，現行發布狀態以本頁與 DOI 頁為準。
