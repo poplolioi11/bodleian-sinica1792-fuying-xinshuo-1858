@@ -11,3 +11,7 @@ Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai an
 原文字串見book.json、text.txt與text.tei.xml；逐頁定位見SOURCE-MAP，疑讀見UNCERTAINTIES。READABLE-TEXT另層明示小註插入，與ANCHORS／READING-MAP合讀。各面覆核範圍、統計與方法見COVERAGE、STATS、METHODS及QUALITY-AND-CONTRIBUTIONS。
 
 歷史原文按公有領域處理（PDM）；新增可著作說明與書目採CC BY 4.0。來源影像不納包，Bodleian的影像條件另列LICENSE與POLICY；館方不因來源連結而背書本轉錄。
+
+固定 v0.3.0 發行以[該版 ZIP](https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858/releases/tag/v0.3.0)及其中27個檔案與 SHA256SUMS 為準；main 留存的 manifest.json 與 tei.sidecar.json 是 v0.2.0 歷史檔，不適用於目前137面版。
+
+The fixed v0.3.0 release consists of its release ZIP and the 27 files listed by the enclosed SHA256SUMS; manifest.json and tei.sidecar.json retained on main are historical v0.2.0 files and do not describe the current 137-face edition.
