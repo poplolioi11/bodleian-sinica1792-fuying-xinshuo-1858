@@ -1,6 +1,6 @@
 {
   "schema": "sinica1792-note-and-layout-anchors/2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "records": [
     {
       "unit_id": "cover-hand-above",
@@ -696,6 +696,26 @@
         "如無不",
         "用亦可"
       ]
+    },
+    {
+      "page_id": "p132",
+      "unit_id": "p132-u011",
+      "parent_unit_id": "p132-u009",
+      "insertion_offset": 3,
+      "anchor_before": "據也、",
+      "anchor_after": "入九日",
+      "text": "輕者兒未甚覺",
+      "status": "fixed string checks passed; root source-relationship acceptance required"
+    },
+    {
+      "page_id": "p134",
+      "unit_id": "p134-u009",
+      "parent_unit_id": "p134-u007",
+      "insertion_offset": 20,
+      "anchor_before": "實余之厚望也、",
+      "anchor_after": null,
+      "text": "聞華醫令求種者先送番銀一金爲資八九日送漿來則還給之或令富者收貧者之漿酬以銀物果食皆收漿良法也○取漿無損於嬰兒中土每有愚人不肯可惜也",
+      "status": "fixed string checks passed; root source-relationship acceptance required"
     }
   ],
   "order_note": "檔案單元序是分層交換序；正文中途的小註及續文須依錨點閱讀。"

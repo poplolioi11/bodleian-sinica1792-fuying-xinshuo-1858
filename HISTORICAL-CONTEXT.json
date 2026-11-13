@@ -1,6 +1,6 @@
 {
   "schema": "sinica1792-historical-context/2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "source_witness": "Bodleian Sinica 1792",
   "catalogued_edition": {
     "year": "1858",
@@ -324,5 +324,18 @@
       "encoding_status": "unresolved",
       "human_review": "not-run"
     }
-  ]
+  ],
+  "legacy_records_scope": "existing128 only; not extended as reviewed evidence to new9",
+  "new_initial_face_ids": [
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137"
+  ],
+  "new_unit_review_scope": "new9 AI initial only; no independent or source-adjudicated status assigned"
 }

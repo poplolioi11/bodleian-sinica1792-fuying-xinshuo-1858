@@ -1,6 +1,6 @@
 {
   "schema": "sinica1792-whole-page-layers/2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "review_role": "nonblind-ai-source-adjudicator",
   "pages": [
     {
@@ -2251,5 +2251,18 @@
       "human_review": false
     }
   ],
-  "limitation": "已作原圖盤點並非人類校勘或測得準確率。"
+  "limitation": "已作原圖盤點並非人類校勘或測得準確率。",
+  "legacy_records_scope": "existing128 only; not extended as reviewed evidence to new9",
+  "new_initial_face_ids": [
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137"
+  ],
+  "new_unit_review_scope": "new9 AI initial only; no independent or source-adjudicated status assigned"
 }

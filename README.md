@@ -1,19 +1,13 @@
-# 婦嬰新說 / Fu ying xin shuo
+# 婦嬰新說 / Fu ying xin shuo [New Treatise on Women and Infants]: Bodleian Sinica 1792 transcription dataset
 
-《婦嬰新說》（Fu ying xin shuo）由合信氏（Benjamin Hobson）著、管茂材同撰，館目著錄為1858年上海仁濟醫館刊本，論述女性生殖解剖、妊娠、分娩、嬰幼兒疾病及當時方藥，並附醫學圖說。資料可供醫學史、翻譯史與圖說研究初步檢索、定位及回圖查核。本版依牛津Bodleian Libraries所藏Sinica 1792，提供128面忠實轉錄及p129–137九面的版本與流通史導讀，導讀不收該章操作正文；JSON、TXT及TEI保留原字、原刻句讀、細註、圖字與官方原件連結。v0.2.0經獨立AI讀稿比較及逐面非盲回圖裁定，未經人類全文校勘，疑讀已標記。
+《婦嬰新說》（Fu ying xin shuo）由合信（Benjamin Hobson）著、管茂材同撰，為1858年上海仁濟醫館刊行的中文醫學著作，內容涉及女性身體、妊娠、分娩及嬰幼兒疾病，並附醫學圖說，可供十九世紀醫學史、醫學翻譯與圖像研究參考。本資料依牛津Bodleian Libraries所藏Sinica 1792，提供137面原文的JSON、TXT及TEI，保留原字、句讀與疑讀，逐頁連結來源，另附明示小註插入的閱讀檔。資料由AI輔助轉錄；新增9面仍屬初錄，未經專家審定。
 
-Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. The dataset supports preliminary searching, location and image checking for medical history, translation and illustration research. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this edition provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the original. Version 0.2.0 uses independent AI reading comparison followed by nonblind, face-by-face source adjudication; no human full-text collation has been performed, and uncertainties are marked.
+Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and published by Ren ji yi guan in Shanghai in 1858, is a Chinese medical work concerning the female body, pregnancy, childbirth and childhood illnesses, accompanied by medical illustrations. It offers material for the study of nineteenth-century medicine, medical translation and visual culture. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this dataset supplies 137 source faces in JSON, TXT and TEI, preserving source characters, punctuation and uncertainties, with page-level source links and a separately labelled reading file showing note insertions. The transcription is AI-assisted; the nine newly added faces remain initial transcription and have not received expert review.
 
-本資料可檢索並定位至原件；關鍵處已逐面回圖；仍未經人類全文審定。
+版本 v0.3.0；封裝日期 2026-11-13。版本 DOI：[10.5281/zenodo.24184609](https://doi.org/10.5281/zenodo.24184609)（已預留；正式發布與登記狀態以公開紀錄為準）。
 
-版本v0.2.0含128面、1504單元，25條未解紀錄；紀錄數不等於缺字數或錯字率。不是所有物理面的全文，九面僅作書史導讀。DOI尚未建立。
+[官方館目](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1543)、[數位原件](https://digital.bodleian.ox.ac.uk/objects/81ca8c5b-9a4c-4da0-83b9-ed8bc4bc0988/)及[IIIF](https://iiif.bodleian.ox.ac.uk/iiif/manifest/81ca8c5b-9a4c-4da0-83b9-ed8bc4bc0988.json)。方括號英文題名為編者意譯。
 
-[官方館目](https://east-asian.bodleian.ox.ac.uk/catalog/volume_1543)及[數位原件](https://digital.bodleian.ox.ac.uk/objects/81ca8c5b-9a4c-4da0-83b9-ed8bc4bc0988/)。館目拼音原文為fu ying xin shuo，展示名只大寫首字。英文意譯New Treatise on Women and Infants由編者提供，並非館方正式英題。
+原文字串見book.json、text.txt與text.tei.xml；逐頁定位見SOURCE-MAP，疑讀見UNCERTAINTIES。READABLE-TEXT另層明示小註插入，與ANCHORS／READING-MAP合讀。各面覆核範圍、統計與方法見COVERAGE、STATS、METHODS及QUALITY-AND-CONTRIBUTIONS。
 
-book.json為完整主本，TXT及TEI與其sidecar由同一字串衍生。請連同[閱讀說明](READING-GUIDE.md)、[方法](METHODS.md)、[品質](QUALITY-AND-CONTRIBUTIONS.md)、[疑讀](UNCERTAINTIES.json)、[錨點](ANCHORS.json)及[版本變動](CHANGES.json)使用。TEI是最小交換投影，未建立完整校勘apparatus。
-
-整理者：曲宸宇／Chu, Chen-Yu（[ORCID](https://orcid.org/0009-0003-9738-6914)）；poplolioi11為同一人帳號。新增可著作說明及書目整理採CC BY 4.0，歷史原文不新增限制，來源影像條件另見[POLICY.md](POLICY.md)及[LICENSE.md](LICENSE.md)。本包不含影像。館方提供原件，不表示認可本轉錄。
-
-[0.1.0 DOI](https://doi.org/10.5281/zenodo.24147453) · [0.2.0 DOI](https://doi.org/10.5281/zenodo.24147963) · [所有版本](https://doi.org/10.5281/zenodo.24147452) · [GitHub v0.2.0](https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858/releases/tag/v0.2.0) · [醫學史社群](https://zenodo.org/communities/late-qing-medical-history/)
-
-本主分支於固定版公開後補入 DOI 與引用連結。SHA256SUMS 驗證固定 release 內容；封存包保留製備時的文件，現行發布狀態以本頁與 DOI 頁為準。
+歷史原文按公有領域處理（PDM）；新增可著作說明與書目採CC BY 4.0。來源影像不納包，Bodleian的影像條件另列LICENSE與POLICY；館方不因來源連結而背書本轉錄。

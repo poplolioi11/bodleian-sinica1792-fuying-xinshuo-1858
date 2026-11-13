@@ -1,0 +1,698 @@
+{
+  "version": "0.3.0",
+  "interior_faces": 136,
+  "cover_faces": 1,
+  "transcribed_faces": 137,
+  "old_reviewed_faces": 128,
+  "new_initial_only_faces": 9,
+  "face_ids": [
+    "cover-upper",
+    "p001",
+    "p003",
+    "p004",
+    "p005",
+    "p007",
+    "p008",
+    "p009",
+    "p010",
+    "p011",
+    "p012",
+    "p013",
+    "p014",
+    "p015",
+    "p016",
+    "p017",
+    "p018",
+    "p019",
+    "p020",
+    "p021",
+    "p022",
+    "p023",
+    "p024",
+    "p025",
+    "p026",
+    "p027",
+    "p028",
+    "p029",
+    "p030",
+    "p031",
+    "p032",
+    "p033",
+    "p034",
+    "p035",
+    "p036",
+    "p037",
+    "p038",
+    "p039",
+    "p041",
+    "p042",
+    "p043",
+    "p044",
+    "p045",
+    "p046",
+    "p047",
+    "p048",
+    "p049",
+    "p050",
+    "p051",
+    "p052",
+    "p053",
+    "p054",
+    "p055",
+    "p056",
+    "p057",
+    "p058",
+    "p059",
+    "p060",
+    "p061",
+    "p063",
+    "p064",
+    "p065",
+    "p066",
+    "p067",
+    "p068",
+    "p069",
+    "p071",
+    "p072",
+    "p073",
+    "p074",
+    "p075",
+    "p076",
+    "p077",
+    "p078",
+    "p079",
+    "p080",
+    "p081",
+    "p082",
+    "p083",
+    "p084",
+    "p085",
+    "p086",
+    "p087",
+    "p088",
+    "p089",
+    "p090",
+    "p091",
+    "p093",
+    "p094",
+    "p095",
+    "p096",
+    "p097",
+    "p098",
+    "p099",
+    "p100",
+    "p101",
+    "p102",
+    "p103",
+    "p104",
+    "p105",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p117",
+    "p118",
+    "p119",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p125",
+    "p126",
+    "p127",
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147"
+  ],
+  "guide_only_faces": [],
+  "pages": [
+    {
+      "page_id": "cover-upper",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p001",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p003",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p004",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p005",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p007",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p008",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p009",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p010",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p011",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p012",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p013",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p014",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p015",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p016",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p017",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p018",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p019",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p020",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p021",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p022",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p023",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p024",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p025",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p026",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p027",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p028",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p029",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p030",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p031",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p032",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p033",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p034",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p035",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p036",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p037",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p038",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p039",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p041",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p042",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p043",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p044",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p045",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p046",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p047",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p048",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p049",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p050",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p051",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p052",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p053",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p054",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p055",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p056",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p057",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p058",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p059",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p060",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p061",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p063",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p064",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p065",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p066",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p067",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p068",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p069",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p071",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p072",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p073",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p074",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p075",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p076",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p077",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p078",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p079",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p080",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p081",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p082",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p083",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p084",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p085",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p086",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p087",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p088",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p089",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p090",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p091",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p093",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p094",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p095",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p096",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p097",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p098",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p099",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p100",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p101",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p102",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p103",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p104",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p105",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p107",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p108",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p109",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p110",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p111",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p112",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p113",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p114",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p115",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p117",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p118",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p119",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p121",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p122",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p123",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p124",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p125",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p126",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p127",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p129",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p130",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p131",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p132",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p133",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p134",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p135",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p136",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p137",
+      "review_status": "AI-initial-only-with-limited-same-reader-detail-checks"
+    },
+    {
+      "page_id": "p139",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p140",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p141",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p142",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p143",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p144",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p145",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p146",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    },
+    {
+      "page_id": "p147",
+      "review_status": "independent-ai-reading-compared-and-nonblind-source-adjudicated"
+    }
+  ]
+}

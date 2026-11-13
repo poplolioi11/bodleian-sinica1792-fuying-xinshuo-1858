@@ -1,16 +1,15 @@
 cff-version: 1.2.0
 message: 請引用實際使用的固定版本。歷史原文與現代整理說明的權利範圍分見POLICY.md。
 type: dataset
-title: 婦嬰新說 / Fu ying xin shuo
-version: 0.2.0
-date-released: '2026-11-12'
+title: '婦嬰新說 / Fu ying xin shuo [New Treatise on Women and Infants]: Bodleian Sinica 1792 transcription dataset'
+version: 0.3.0
 url: https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858
 authors:
 - family-names: Chu
   given-names: Chen-Yu
   orcid: https://orcid.org/0009-0003-9738-6914
   website: https://github.com/poplolioi11
-abstract: Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. The dataset supports preliminary searching, location and image checking for medical history, translation and illustration research. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this edition provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the original. Version 0.2.0 uses independent AI reading comparison followed by nonblind, face-by-face source adjudication; no human full-text collation has been performed, and uncertainties are marked.
+abstract: Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and published by Ren ji yi guan in Shanghai in 1858, is a Chinese medical work concerning the female body, pregnancy, childbirth and childhood illnesses, accompanied by medical illustrations. It offers material for the study of nineteenth-century medicine, medical translation and visual culture. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this dataset supplies 137 source faces in JSON, TXT and TEI, preserving source characters, punctuation and uncertainties, with page-level source links and a separately labelled reading file showing note insertions. The transcription is AI-assisted; the nine newly added faces remain initial transcription and have not received expert review.
 keywords:
 - 婦嬰新說
 - Fu ying xin shuo
@@ -37,4 +36,5 @@ keywords:
 - Bodleian Sinica 1792
 - TEI
 license: CC-BY-4.0
-doi: 10.5281/zenodo.24147963
+doi: 10.5281/zenodo.24184609
+date-released: '2026-11-13'

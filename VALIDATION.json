@@ -1,0 +1,16 @@
+{
+  "old_id_text_source_projection_unchanged": true,
+  "old25_uncertainties_unchanged": true,
+  "new103_texts_equal_fixed_delivery": true,
+  "TXT_TEI_unit_readback": "passed",
+  "TEI_RelaxNG": "passed: official TEI P5 4.12.0 tei_all.rng",
+  "CFF_full_schema": "passed: CFF1.2.0 Draft7 format checker",
+  "human_review": "not-run",
+  "measured_character_accuracy": null,
+  "version_DOI": "10.5281/zenodo.24184609",
+  "negative_tests_rejected": 7,
+  "source_projection_and_current_uncertainties": "passed",
+  "new_note_derivative": "passed",
+  "release_prepared": true,
+  "publication_verified": false
+}

@@ -1,6 +1,6 @@
 {
   "schema": "sinica1792-gaiji/2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "groups": [
     {
       "id": "g1792-p004-c04-last2",
@@ -191,5 +191,6 @@
         }
       ]
     }
-  ]
+  ],
+  "old_groups_unchanged": true
 }

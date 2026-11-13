@@ -1,6 +1,6 @@
 {
   "schema": "sinica1792-public-adjudication-summary/2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "offset_basis": "unicode-codepoint-0-half-open",
   "source_adjudicated_faces": 128,
   "unit_observations": [
@@ -18060,5 +18060,18 @@
     "actual_model": null,
     "exact_model_gate": "incomplete-unknown-model",
     "engineering_validation_not_accuracy": true
-  }
+  },
+  "legacy_records_scope": "existing128 only; not extended as reviewed evidence to new9",
+  "new_initial_face_ids": [
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137"
+  ],
+  "new_unit_review_scope": "new9 AI initial only; no independent or source-adjudicated status assigned"
 }

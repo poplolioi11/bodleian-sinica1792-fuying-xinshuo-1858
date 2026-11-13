@@ -1,21 +1,18 @@
 {
-  "faces": 128,
-  "guide_only_faces": 9,
-  "units": 1504,
-  "added_units": 9,
-  "removed_duplicate_units": 3,
-  "changed_existing_units": 744,
-  "change_records": 756,
-  "uncertainty_records": 25,
-  "gaiji_groups": 6,
-  "gaiji_occurrences": 13,
-  "blank_square_occurrences": 2,
-  "codepoints_in_units": 26089,
+  "faces": 137,
+  "interior_faces": 136,
+  "cover_faces": 1,
+  "units": 1607,
+  "old_units_preserved": 1504,
+  "new_initial_units": 103,
+  "uncertainty_records": 51,
+  "old_uncertainties": 25,
+  "new_uncertainties": 26,
+  "codepoints_in_units": 28397,
   "source_punctuation_counts": {
-    "、": 2277,
-    "○": 37
+    "、": 2521,
+    "○": 38
   },
-  "source_adjudicated_faces": 128,
-  "human_full_collation": "not-run",
+  "blank_square_occurrences": 11,
   "measured_character_accuracy": null
 }

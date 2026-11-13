@@ -1,6 +1,6 @@
 {
-  "schema": "sinica1792-uncertainties/2",
-  "version": "0.2.0",
+  "schema": "sinica1792-uncertainties/3",
+  "version": "0.3.0",
   "offset_basis": "unicode-codepoint-0-half-open",
   "records": [
     {
@@ -421,6 +421,718 @@
       "reason": "原像素局部實讀後仍保留會暫讀，未依常見身體部位名稱替換。"
     },
     {
+      "start": 1,
+      "end": 2,
+      "candidates": [
+        "槩",
+        "概"
+      ],
+      "reason": "木旁及右部筆畫交疊，初錄取所見槩形，待較高解析度確認。",
+      "bbox": [
+        271,
+        212,
+        306,
+        855
+      ],
+      "id": "q1792-v030-p129-u005-01",
+      "unit_id": "p129-u005",
+      "page_id": "p129",
+      "surface": "槩",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        31,
+        222,
+        59,
+        327
+      ],
+      "id": "q1792-v030-p129-u011-01",
+      "unit_id": "p129-u011",
+      "page_id": "p129",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三三"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為三。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        31,
+        690,
+        54,
+        725
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi01-p129-t01",
+          "sha256": "e87d90e8ff0e734ceeeb6a956626fc962967eda200cbdc95aac59bb82ea28cb5",
+          "native_region_xywh": [
+            135,
+            3679,
+            201,
+            299
+          ],
+          "actual_dimensions": [
+            201,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/6e992591-ae0d-456d-afac-259a33ab1a66/135,3679,201,299/full/0/default.jpg",
+          "mother_sha256": "ee03ed7768e931d35e17104645847e9def1cbeb76ec8c410bbc3da1e13dd4111",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p129-u012-01",
+      "unit_id": "p129-u012",
+      "page_id": "p129",
+      "surface": "□三",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 2,
+      "end": 3,
+      "candidates": [
+        "疱",
+        "疤"
+      ],
+      "reason": "病框內右下部細筆不夠清楚，依可見包形初錄疱。",
+      "bbox": [
+        908,
+        212,
+        943,
+        855
+      ],
+      "id": "q1792-v030-p130-u001-01",
+      "unit_id": "p130-u001",
+      "page_id": "p130",
+      "surface": "疱",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 2,
+      "end": 3,
+      "candidates": [
+        "鈹",
+        "銳"
+      ],
+      "reason": "金旁後部似皮，字幅小，保留疑讀。",
+      "bbox": [
+        866,
+        212,
+        901,
+        855
+      ],
+      "id": "q1792-v030-p130-u002-01",
+      "unit_id": "p130-u002",
+      "page_id": "p130",
+      "surface": "鈹",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        945,
+        217,
+        964,
+        326
+      ],
+      "id": "q1792-v030-p130-u011-01",
+      "unit_id": "p130-u011",
+      "page_id": "p130",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 1,
+      "candidates": [],
+      "reason": "版心頁碼已檢視，母圖此處字幅過窄且靠邊，筆畫無法可靠區別；□不表示未處理。",
+      "bbox": [
+        944,
+        690,
+        964,
+        728
+      ],
+      "id": "q1792-v030-p130-u012-01",
+      "unit_id": "p130-u012",
+      "page_id": "p130",
+      "surface": "□",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        31,
+        222,
+        59,
+        330
+      ],
+      "id": "q1792-v030-p131-u011-01",
+      "unit_id": "p131-u011",
+      "page_id": "p131",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三四"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為四。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        30,
+        690,
+        56,
+        726
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi03-p131-t01",
+          "sha256": "44ef5fe6e48d64438d927f9ad4ea441fb718463363d012b5a4c3d2857af5dd1c",
+          "native_region_xywh": [
+            135,
+            3679,
+            201,
+            299
+          ],
+          "actual_dimensions": [
+            201,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9c4d08ab-0174-4159-9c66-f81678c31ae2/135,3679,201,299/full/0/default.jpg",
+          "mother_sha256": "dd06588c3de089c74d343b03e75ab622b5b4577a8aa486da57c77a9871d71b8f",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p131-u012-01",
+      "unit_id": "p131-u012",
+      "page_id": "p131",
+      "surface": "□四",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        946,
+        219,
+        964,
+        328
+      ],
+      "id": "q1792-v030-p132-u012-01",
+      "unit_id": "p132-u012",
+      "page_id": "p132",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三四"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為四。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        945,
+        690,
+        964,
+        727
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi04-p132-t01",
+          "sha256": "edca075a58917851b5a2b3d67448d92fd80da9f0974a845466dc7d3b126e99fd",
+          "native_region_xywh": [
+            5081,
+            3679,
+            196,
+            299
+          ],
+          "actual_dimensions": [
+            196,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/aab725aa-09f0-43b8-883c-c3b7a1b5afa4/5081,3679,196,299/full/0/default.jpg",
+          "mother_sha256": "d16d61cb5ccdc1d1061d72a6dcdff357119cd6c95e886c1dc7426ef4dfb49f15",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p132-u013-01",
+      "unit_id": "p132-u013",
+      "page_id": "p132",
+      "surface": "□四",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 6,
+      "end": 7,
+      "candidates": [
+        "遞",
+        "連"
+      ],
+      "reason": "走之旁內部因低解析度併合，初錄暫取遞，須由原圖更清楚區域核對。",
+      "bbox": [
+        324,
+        333,
+        355,
+        388
+      ],
+      "id": "q1792-v030-p133-u004-01",
+      "unit_id": "p133-u004",
+      "page_id": "p133",
+      "surface": "遞",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        31,
+        211,
+        59,
+        316
+      ],
+      "id": "q1792-v030-p133-u011-01",
+      "unit_id": "p133-u011",
+      "page_id": "p133",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三五"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為五。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        31,
+        686,
+        58,
+        720
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi05-p133-t01",
+          "sha256": "23cd95d1e6f75c711e94118eee5c9e403c3da6a66b16a55893183529d4c49e21",
+          "native_region_xywh": [
+            135,
+            3679,
+            201,
+            299
+          ],
+          "actual_dimensions": [
+            201,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/aab725aa-09f0-43b8-883c-c3b7a1b5afa4/135,3679,201,299/full/0/default.jpg",
+          "mother_sha256": "d16d61cb5ccdc1d1061d72a6dcdff357119cd6c95e886c1dc7426ef4dfb49f15",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p133-u012-01",
+      "unit_id": "p133-u012",
+      "page_id": "p133",
+      "surface": "□五",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 26,
+      "end": 27,
+      "candidates": [
+        "禆",
+        "裨"
+      ],
+      "reason": "礻或衤旁細筆難分，暫按可見形錄禆。",
+      "bbox": [
+        781,
+        811,
+        814,
+        850
+      ],
+      "id": "q1792-v030-p134-u004-01",
+      "unit_id": "p134-u004",
+      "page_id": "p134",
+      "surface": "禆",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 1,
+      "candidates": [
+        "聞",
+        "問"
+      ],
+      "reason": "小註開頭門內部筆畫細密，未能可靠區分聞與問。",
+      "bbox": [
+        670,
+        655,
+        692,
+        683
+      ],
+      "id": "q1792-v030-p134-u009-01",
+      "unit_id": "p134-u009",
+      "page_id": "p134",
+      "surface": "聞",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 3,
+      "end": 4,
+      "candidates": [
+        "令",
+        "今"
+      ],
+      "reason": "小註上部點橫及下部鉤形在現解析度不足。",
+      "bbox": [
+        670,
+        724,
+        692,
+        751
+      ],
+      "id": "q1792-v030-p134-u009-02",
+      "unit_id": "p134-u009",
+      "page_id": "p134",
+      "surface": "令",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 7,
+      "end": 8,
+      "candidates": [
+        "先",
+        "光"
+      ],
+      "reason": "小註左小行首字上部似先或光，保留候選。",
+      "bbox": [
+        646,
+        655,
+        668,
+        684
+      ],
+      "id": "q1792-v030-p134-u009-03",
+      "unit_id": "p134-u009",
+      "page_id": "p134",
+      "surface": "先",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        947,
+        213,
+        967,
+        320
+      ],
+      "id": "q1792-v030-p134-u010-01",
+      "unit_id": "p134-u010",
+      "page_id": "p134",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三五"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為五。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        947,
+        688,
+        967,
+        722
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi06-p134-t01",
+          "sha256": "347a9f15612c0c36df2b7733eb61d5145f01743d4330c0f60b34d82ed980055e",
+          "native_region_xywh": [
+            5081,
+            3679,
+            196,
+            299
+          ],
+          "actual_dimensions": [
+            196,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8e8c1ee8-9ac2-4283-a99f-66888ce0f55b/5081,3679,196,299/full/0/default.jpg",
+          "mother_sha256": "935dd597398d09beb954279978d325ebbd510b6f89418145dc01e42962b6baf6",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p134-u011-01",
+      "unit_id": "p134-u011",
+      "page_id": "p134",
+      "surface": "□五",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        31,
+        210,
+        59,
+        316
+      ],
+      "id": "q1792-v030-p135-u011-01",
+      "unit_id": "p135-u011",
+      "page_id": "p135",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三六"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為六。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        31,
+        686,
+        58,
+        720
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi07-p135-t01",
+          "sha256": "8f82ec428e331a66301f9d352f86f8c16b92e353b4b247e0329a120ff16d1672",
+          "native_region_xywh": [
+            135,
+            3679,
+            201,
+            299
+          ],
+          "actual_dimensions": [
+            201,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8e8c1ee8-9ac2-4283-a99f-66888ce0f55b/135,3679,201,299/full/0/default.jpg",
+          "mother_sha256": "935dd597398d09beb954279978d325ebbd510b6f89418145dc01e42962b6baf6",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p135-u012-01",
+      "unit_id": "p135-u012",
+      "page_id": "p135",
+      "surface": "□六",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        945,
+        205,
+        968,
+        327
+      ],
+      "id": "q1792-v030-p136-u011-01",
+      "unit_id": "p136-u011",
+      "page_id": "p136",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三六"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為六。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        945,
+        685,
+        968,
+        724
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi08-p136-t01",
+          "sha256": "1d0e2b6c06b0ce9bb88d4f8cb2d7a1bda7c5a8d98803534343ebeb1ac1ebadb5",
+          "native_region_xywh": [
+            5081,
+            3679,
+            196,
+            299
+          ],
+          "actual_dimensions": [
+            196,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0d993427-8379-4bec-a13b-0205a3d9ddfc/5081,3679,196,299/full/0/default.jpg",
+          "mother_sha256": "6b5feee73a554da2f8e6e3779448407ec28f74d400242c79b7d4c7842cf7b094",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p136-u012-01",
+      "unit_id": "p136-u012",
+      "page_id": "p136",
+      "surface": "□六",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 4,
+      "candidates": [
+        "婦嬰新說"
+      ],
+      "reason": "書名在最外側版心，部分筆畫接近母圖裁邊；全詞為逐字初讀，待邊緣區核對。",
+      "bbox": [
+        31,
+        211,
+        59,
+        317
+      ],
+      "id": "q1792-v030-p137-u006-01",
+      "unit_id": "p137-u006",
+      "page_id": "p137",
+      "surface": "婦嬰新說",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
+      "start": 0,
+      "end": 2,
+      "candidates": [
+        "三七"
+      ],
+      "reason": "高解析細部已看；末位可見筆畫初讀為七。首位只見靠折邊的部分橫畫，未核實全字；保留□，不以頁序補字。影像邊緣遮住筆畫不等於紙本物理毀損。",
+      "bbox": [
+        31,
+        685,
+        59,
+        722
+      ],
+      "source_refs": [
+        {
+          "tile_id": "roi09-p137-t01",
+          "sha256": "f2df5b34fe31806685f86151f2a627fd1f84adb15ea2b1f248cb710fe1c47ef6",
+          "native_region_xywh": [
+            135,
+            3679,
+            201,
+            299
+          ],
+          "actual_dimensions": [
+            201,
+            299
+          ],
+          "official_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0d993427-8379-4bec-a13b-0205a3d9ddfc/135,3679,201,299/full/0/default.jpg",
+          "mother_sha256": "6b5feee73a554da2f8e6e3779448407ec28f74d400242c79b7d4c7842cf7b094",
+          "source_table_sha256": "1c695e146f00ed488144e21013ad41fccf8a2a16c01247ab551df856edc3b467",
+          "exact_pixel_mapping_certified": false
+        }
+      ],
+      "id": "q1792-v030-p137-u007-01",
+      "unit_id": "p137-u007",
+      "page_id": "p137",
+      "surface": "□七",
+      "offset_basis": "unicode-codepoint-0-half-open",
+      "status": "unresolved",
+      "review_scope": "new9-initial-only"
+    },
+    {
       "id": "q1792-v020-p145-u002-1",
       "unit_id": "p145-u002",
       "page_id": "p145",
@@ -440,5 +1152,7 @@
       "reason": "撥前字上部細構未定，疑似單／畢形；保留初稿畢暫讀，不以同書藥名或通行名回填。"
     }
   ],
-  "note": "紀錄數不等於缺字數；同形字群可有多處，仍需回原圖。"
+  "old25_unchanged": true,
+  "new26_initial_only": true,
+  "resolved_history_excluded": true
 }

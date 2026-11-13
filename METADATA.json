@@ -1,8 +1,8 @@
 {
   "schema": "scholarly-historical-dataset-metadata/1",
   "resource_type": "dataset",
-  "title": "婦嬰新說 / Fu ying xin shuo",
-  "version": "0.2.0",
+  "title": "婦嬰新說 / Fu ying xin shuo [New Treatise on Women and Infants]: Bodleian Sinica 1792 transcription dataset",
+  "version": "0.3.0",
   "creators": [
     {
       "name": "Chu, Chen-Yu",
@@ -18,7 +18,6 @@
     }
   ],
   "url": "https://github.com/poplolioi11/bodleian-sinica1792-fuying-xinshuo-1858",
-  "doi": null,
   "titles": [
     {
       "title": "婦嬰新說",
@@ -41,12 +40,16 @@
   ],
   "descriptions": {
     "abstract": {
-      "zh": "《婦嬰新說》（Fu ying xin shuo）由合信氏（Benjamin Hobson）著、管茂材同撰，館目著錄為1858年上海仁濟醫館刊本，論述女性生殖解剖、妊娠、分娩、嬰幼兒疾病及當時方藥，並附醫學圖說。資料可供醫學史、翻譯史與圖說研究初步檢索、定位及回圖查核。本版依牛津Bodleian Libraries所藏Sinica 1792，提供128面忠實轉錄及p129–137九面的版本與流通史導讀，導讀不收該章操作正文；JSON、TXT及TEI保留原字、原刻句讀、細註、圖字與官方原件連結。v0.2.0經獨立AI讀稿比較及逐面非盲回圖裁定，未經人類全文校勘，疑讀已標記。",
-      "en": "Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and catalogued as an 1858 Shanghai edition issued by Ren ji yi guan, discusses female reproductive anatomy, pregnancy, childbirth, childhood illness and historical remedies, with medical illustrations. The dataset supports preliminary searching, location and image checking for medical history, translation and illustration research. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this edition provides a source-faithful transcription of 128 faces and a bibliographical and circulation-history guide for the nine faces p129–137, without that chapter’s operational text. JSON, TXT and TEI preserve source characters, printed punctuation, small notes and diagram labels, with links to the original. Version 0.2.0 uses independent AI reading comparison followed by nonblind, face-by-face source adjudication; no human full-text collation has been performed, and uncertainties are marked."
+      "zh": "《婦嬰新說》（Fu ying xin shuo）由合信（Benjamin Hobson）著、管茂材同撰，為1858年上海仁濟醫館刊行的中文醫學著作，內容涉及女性身體、妊娠、分娩及嬰幼兒疾病，並附醫學圖說，可供十九世紀醫學史、醫學翻譯與圖像研究參考。本資料依牛津Bodleian Libraries所藏Sinica 1792，提供137面原文的JSON、TXT及TEI，保留原字、句讀與疑讀，逐頁連結來源，另附明示小註插入的閱讀檔。資料由AI輔助轉錄；新增9面仍屬初錄，未經專家審定。",
+      "en": "Fu ying xin shuo (婦嬰新說), written by Benjamin Hobson with Guan mao cai and published by Ren ji yi guan in Shanghai in 1858, is a Chinese medical work concerning the female body, pregnancy, childbirth and childhood illnesses, accompanied by medical illustrations. It offers material for the study of nineteenth-century medicine, medical translation and visual culture. Based on Bodleian Libraries, University of Oxford, Sinica 1792, this dataset supplies 137 source faces in JSON, TXT and TEI, preserving source characters, punctuation and uncertainties, with page-level source links and a separately labelled reading file showing note insertions. The transcription is AI-assisted; the nine newly added faces remain initial transcription and have not received expert review."
     },
     "methods": {
-      "zh": "固定牛津Sinica 1792影像為唯一取文底本。初錄v0.1.0公開後，才開封未見初錄的獨立AI讀稿；本輪裁定者已看兩稿，且承接初錄脈絡，因此是非盲來源裁定。全128面實際回圖，比較差異，同時覆看兩稿相同但有風險的原字、數字、句讀、小註及圖字，另作整頁盤點。必要局部影像只保留原像素，不增墨；未以通行本、現代詞或數值關係補正文。新增漏錄及刪除同處重錄均見CHANGES，細註附著處見ANCHORS，未解字與字形群見UNCERTAINTIES及GAIJI。p129–137九面仍只作版本與流通史導讀，未轉錄該章操作正文。館目1858年與題頁刊記提供版本背景，當冊印次、成書及掃描日期仍未知。\n\nJSON主本機械衍生TXT與TEI，逐單元核字串、順序、來源及疑讀位置，另以官方TEI P5 4.12.0 Relax NG及CFF 1.2完整schema驗證。這些是格式和追溯檢查，不是全文準確率。實際原生模型、effort、tokens、現金用量及人工逐字時間未回報，均保持未知；語義追溯檢查因unknown-model真實回傳exit 3，未稱完全通過。人類全文校勘、專家及同儕審查均未執行，也沒有測得字誤率。只有高層方法公開，提示、專用程式、裁片及完整工作紀錄不公開，不能單靠本包重跑全部讀字流程。",
-      "en": "The fixed images of Bodleian Sinica 1792 are the sole transcription witness. Only after v0.1.0 was publicly released was the sealed, independently produced AI reading opened. The adjudicator saw both readings and continued the initial-transcription context, so this stage is explicitly nonblind. All 128 faces were viewed again, comparing differences and checking concordant high-risk characters, numbers, punctuation, notes and labels, with whole-face inventory. Necessary details preserve source pixels. Other editions, modern terminology and numerical relationships do not supply source text. The nine guide-only faces remain excluded from transcription. Actual impression, composition and scan dates remain unknown. Mechanical JSON/TXT/TEI checks and schema validation do not measure accuracy. Exact native model, effort, token and cash counters remain unknown; the semantic provenance check retains a real exit 3 for unknown-model. Human full-text, expert and peer review were not performed. Only this high-level method is public; the complete reading process cannot be rerun from the released package alone."
+      "zh": "依牛津 Bodleian Libraries 所藏 Sinica 1792 的影像逐面轉錄，保留原字、異體、原有圈點與疑讀，不另加現代標點或依文義改字。既有128面、1504個文字單元保留先前獨立 AI 讀稿比較及知悉初稿後對照來源的覆核狀態；新增9面、103個文字單元為 AI 輔助初錄，另對實際取得的局部細圖回看，沒有把137面視為全文獨立二校。\n\nJSON、TXT 與 TEI 依同一固定文字匯出，逐字核對讀序與來源對應。小註另存與正文的關係；衍生閱讀檔以編輯標記顯示兩處新增小註的插入位置，不改動原文層。共保留51筆當前疑讀。格式檢查採 TEI P5 4.12.0 與 CFF 1.2.0 正式規格；這些檢查不代表文字準確率。尚未經人類全文校勘、專家審定或同儕審查。實際 AI 模型與完整用量資料未能確認。原圖、裁片、專用程式、提示與完整工作紀錄未隨資料公開，因此不宣稱可由公開包完整重跑影像辨讀流程。",
+      "en": "The transcription follows the images of Bodleian Libraries, University of Oxford, Sinica 1792, face by face, retaining source characters, variants, printed punctuation and uncertain readings without modernization or contextual correction. The existing 128 faces and 1504 text units retain their previous independent AI reading comparison and subsequent source review conducted with access to the draft. The nine added faces and 103 units are AI-assisted initial transcription, with limited checks against the detail images actually obtained. This does not constitute independent collation of all 137 faces.\n\nJSON, TXT and TEI are generated from the same fixed transcription and checked for exact text order and source correspondence. Notes retain separate links to the body text; a reading derivative uses explicit editorial markers for the two newly positioned notes without changing the literal layer. There are 51 current uncertainty records. Formal checks use TEI P5 4.12.0 and CFF 1.2.0; these checks do not measure textual accuracy. Human full-text collation, expert review and peer review have not been performed. Exact AI model identity and complete usage data are unconfirmed. Source images, crops, specialized programs, prompts and full working records are not distributed, so the image-reading process cannot be fully reproduced from the public package."
+    },
+    "notes": {
+      "zh": "底本為牛津 Bodleian Libraries, University of Oxford 所藏 Sinica 1792。館目記1858年上海仁濟醫館刊；當冊實際印次及掃描日期未知。方括號英題 New Treatise on Women and Infants 為編者意譯。資料涵蓋136個內文面及1個封面，提供 JSON、TXT、TEI、逐頁來源索引、疑讀與小註閱讀檔。歷史原文以 Public Domain Mark 1.0 標示，整理者不另加限制；具著作性的新增說明及書目資料採 CC BY 4.0。來源影像未納包，仍須遵守 Bodleian 個別原件條款及 CC BY-NC 4.0 影像條件；館藏連結不表示館方認可轉錄。",
+      "en": "Source: Bodleian Libraries, University of Oxford, Sinica 1792. The catalogue records publication at Ren ji yi guan, Shanghai, in 1858; the actual impression and scan date of this copy are unknown. The bracketed English title, New Treatise on Women and Infants, is an editorial translation. The dataset covers 136 interior faces and one cover, with JSON, TXT, TEI, page-level source references, uncertainty records and a note-aware reading file. The historical text is marked with Public Domain Mark 1.0 and carries no additional restriction imposed by the editor. Copyrightable new documentation and metadata are licensed under CC BY 4.0. No source images are supplied; Bodleian item terms and CC BY-NC 4.0 image conditions remain applicable to the images. Source links do not imply institutional endorsement."
     }
   },
   "keywords": [
@@ -151,35 +154,27 @@
     "catalogue_uri": "https://east-asian.bodleian.ox.ac.uk/catalog/volume_1543"
   },
   "coverage": {
-    "transcribed_faces": 128,
-    "transcription_units": 1504,
-    "guide_only_faces": [
-      "p129",
-      "p130",
-      "p131",
-      "p132",
-      "p133",
-      "p134",
-      "p135",
-      "p136",
-      "p137"
-    ],
-    "guide_only_face_count": 9,
-    "guide_scope": "bibliographical-and-circulation-history",
-    "excluded_chapter_operational_text_included": false,
-    "not_all_physical_faces_transcribed": true
+    "transcribed_faces": 137,
+    "interior_faces": 136,
+    "cover_faces": 1,
+    "transcription_units": 1607,
+    "guide_only_faces": [],
+    "old_reviewed_faces": 128,
+    "new_initial_only_faces": 9
   },
   "quality": {
-    "stage": "independent-ai-reading-comparison-and-nonblind-source-adjudication",
-    "independent_collation_applied": true,
+    "stage": "mixed-review-old128-retained-new9-initial",
+    "independent_collation_applied": false,
     "human_full_collation": "not-run",
     "expert_review": "not-run",
     "peer_review": "not-run",
     "measured_character_accuracy": null,
-    "uncertainty_records": 25,
+    "uncertainty_records": 51,
     "actual_ai_model": null,
     "methods_file": "METHODS.md",
-    "nonblind_source_adjudication_applied": true
+    "nonblind_source_adjudication_applied": false,
+    "old128_independent_nonblind_status_retained": true,
+    "new9_initial_only": true
   },
   "license": {
     "id": "cc-by-4.0",
@@ -191,7 +186,9 @@
       "layer": "underlying-historical-text",
       "status": "public-domain-treated",
       "additional_restrictions_asserted": false,
-      "statement": "Historical text; the editor adds no restriction."
+      "statement": "Historical text; the editor adds no restriction.",
+      "mark_id": "PDM-1.0",
+      "mark_url": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
       "layer": "source-scans",
@@ -218,13 +215,13 @@
     "gaiji": "GAIJI.json",
     "adjudication": "ANNOTATIONS.json",
     "whole_page_layers": "WHOLE-PAGE-LAYERS.json",
-    "historical_context": "HISTORICAL-CONTEXT.json"
+    "historical_context": "HISTORICAL-CONTEXT.json",
+    "coverage": "COVERAGE.json",
+    "source_map": "SOURCE-MAP.json",
+    "readable": "READABLE-TEXT.txt",
+    "reading_map": "READING-MAP.json"
   },
-  "fixed_text_integrity": {
-    "book_json_sha256": "6ca89bdc4b237158887efbd61d3822b20f8d6f997c66890531babe4d9f08f28b",
-    "txt_sha256": "0e28349db401c389ea1456fe75d2e1a586a612a374447ba2e1268ef2fc79213a",
-    "tei_text_subtree_sha256": "9a3aaa6ac0731631fabc04ae056a13213dfa93477fe31ff56c878601467524fc",
-    "source_body_changed_from_v010": true,
-    "all_public_unit_strings_equal_fixed_adjudicated_master": true
-  }
+  "publication_state": "Release prepared with reserved version DOI; public release and DOI registration are verified separately",
+  "doi": "10.5281/zenodo.24184609",
+  "publication_date": "2026-11-13"
 }
