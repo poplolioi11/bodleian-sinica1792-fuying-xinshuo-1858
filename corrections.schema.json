@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bodleian Sinica 1792 transcription correction addendum",
+  "type": "object",
+  "properties": {
+    "format_version": {
+      "const": 1
+    },
+    "addendum_version": {
+      "const": "0.3.1"
+    },
+    "source_shelfmark": {
+      "const": "Sinica 1792"
+    },
+    "base": {
+      "type": "object",
+      "properties": {
+        "dataset_id": {
+          "const": "SB-SINICA1792-source137"
+        },
+        "version": {
+          "const": "0.3.0"
+        },
+        "path": {
+          "const": "book.json"
+        },
+        "git_commit": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        },
+        "git_blob_sha1": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "required": [
+        "dataset_id",
+        "version",
+        "path",
+        "git_commit",
+        "git_blob_sha1",
+        "sha256"
+      ],
+      "additionalProperties": false
+    },
+    "operations": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "case": {
+            "type": "string",
+            "pattern": "^[0-9]{2}[a-d]?$"
+          },
+          "unit_id": {
+            "type": "string",
+            "pattern": "^p[0-9]{3}-(?:c|u|toc-)[0-9]+$"
+          },
+          "page_id": {
+            "type": "string",
+            "pattern": "^p[0-9]{3}$"
+          },
+          "unicode_scalar_offset": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "from": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1
+          },
+          "to": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1
+          },
+          "source_canvas": {
+            "type": "string",
+            "pattern": "^https://iiif\\.bodleian\\.ox\\.ac\\.uk/iiif/canvas/[0-9a-f-]{36}\\.json$"
+          },
+          "evidence_note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "case",
+          "unit_id",
+          "page_id",
+          "unicode_scalar_offset",
+          "from",
+          "to",
+          "source_canvas",
+          "evidence_note"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "format_version",
+    "addendum_version",
+    "source_shelfmark",
+    "base",
+    "operations"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,155 @@
+{
+  "format_version": 1,
+  "addendum_version": "0.3.1",
+  "source_shelfmark": "Sinica 1792",
+  "base": {
+    "dataset_id": "SB-SINICA1792-source137",
+    "version": "0.3.0",
+    "path": "book.json",
+    "git_commit": "e5a27d9018f6a6b94c5da7e9bcaa58b16001047f",
+    "git_blob_sha1": "9658a3e549c21337e1ba81efb6558be4c6fb0cfb",
+    "sha256": "c0e01287f848b98f92d79eb69c0beefbcf9a79dd54725a8c62305eee4ac0b92e"
+  },
+  "operations": [
+    {
+      "case": "34",
+      "unit_id": "p041-c10",
+      "page_id": "p041",
+      "unicode_scalar_offset": 17,
+      "from": "會",
+      "to": "胷",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2591f81a-9d1e-4e45-856d-72d6d1bd07d4.json",
+      "evidence_note": "上部從匈，下部從月。"
+    },
+    {
+      "case": "36",
+      "unit_id": "p107-c08",
+      "page_id": "p107",
+      "unicode_scalar_offset": 4,
+      "from": "偏",
+      "to": "徧",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/4d84d321-7106-46a4-8e90-2d8eb7c3196d.json",
+      "evidence_note": "左部從彳，右部從扁。"
+    },
+    {
+      "case": "37",
+      "unit_id": "p117-c06",
+      "page_id": "p117",
+      "unicode_scalar_offset": 4,
+      "from": "頸",
+      "to": "頭",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3f1f2b4d-daf0-44ca-a0eb-604d0057f4a3.json",
+      "evidence_note": "左部從豆，右部從頁。"
+    },
+    {
+      "case": "39",
+      "unit_id": "p061-c02",
+      "page_id": "p061",
+      "unicode_scalar_offset": 8,
+      "from": "偏",
+      "to": "偪",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5afd86ee-7073-43d1-9a97-421e5307e150.json",
+      "evidence_note": "左部從亻，右部從畐。"
+    },
+    {
+      "case": "40a",
+      "unit_id": "p042-c02",
+      "page_id": "p042",
+      "unicode_scalar_offset": 14,
+      "from": "偏",
+      "to": "偪",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e78e2155-f2bc-45cb-ae87-eec51728e09c.json",
+      "evidence_note": "左部從亻，右部從畐。"
+    },
+    {
+      "case": "40b",
+      "unit_id": "p044-c03",
+      "page_id": "p044",
+      "unicode_scalar_offset": 7,
+      "from": "偏",
+      "to": "偪",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5e777d81-fdf9-43c7-b32a-b4d866a523b0.json",
+      "evidence_note": "左部從亻，右部從畐。"
+    },
+    {
+      "case": "40c",
+      "unit_id": "p046-c05",
+      "page_id": "p046",
+      "unicode_scalar_offset": 9,
+      "from": "偏",
+      "to": "偪",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f1335674-2bbe-4e17-8299-a1c1d1ac499d.json",
+      "evidence_note": "左部從亻，右部從畐。"
+    },
+    {
+      "case": "40d",
+      "unit_id": "p069-c01",
+      "page_id": "p069",
+      "unicode_scalar_offset": 2,
+      "from": "偏",
+      "to": "偪",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9f8e4e09-40f9-4eb1-8f18-a229e1824d87.json",
+      "evidence_note": "左部從亻，右部從畐。"
+    },
+    {
+      "case": "41a",
+      "unit_id": "p114-c04",
+      "page_id": "p114",
+      "unicode_scalar_offset": 15,
+      "from": "偏",
+      "to": "徧",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c4cd3bc4-6500-4848-9c2c-382246aa72fb.json",
+      "evidence_note": "左部從彳，右部從扁。"
+    },
+    {
+      "case": "41b",
+      "unit_id": "p123-u003",
+      "page_id": "p123",
+      "unicode_scalar_offset": 4,
+      "from": "偏",
+      "to": "徧",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/15661503-b821-40e0-a8f3-f0fdbb32cfe6.json",
+      "evidence_note": "左部從彳，右部從扁。"
+    },
+    {
+      "case": "41c",
+      "unit_id": "p117-c09",
+      "page_id": "p117",
+      "unicode_scalar_offset": 8,
+      "from": "偏",
+      "to": "徧",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3f1f2b4d-daf0-44ca-a0eb-604d0057f4a3.json",
+      "evidence_note": "左部從彳，右部從扁。"
+    },
+    {
+      "case": "44",
+      "unit_id": "p069-c03",
+      "page_id": "p069",
+      "unicode_scalar_offset": 2,
+      "from": "蛆",
+      "to": "蜞",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9f8e4e09-40f9-4eb1-8f18-a229e1824d87.json",
+      "evidence_note": "右部從其，下端可見分開的兩筆。"
+    },
+    {
+      "case": "45",
+      "unit_id": "p126-u010",
+      "page_id": "p126",
+      "unicode_scalar_offset": 17,
+      "from": "絲",
+      "to": "緜",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3d9a1c9b-a910-4fc7-9f0f-906375f663b2.json",
+      "evidence_note": "左部從帛，右部從糸。"
+    },
+    {
+      "case": "48",
+      "unit_id": "p007-toc-09",
+      "page_id": "p007",
+      "unicode_scalar_offset": 1,
+      "from": "子",
+      "to": "孖",
+      "source_canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b8ca4b4a-0fb8-4ff5-a826-0a0d7733a280.json",
+      "evidence_note": "同一字位內左右各印一個子部。"
+    }
+  ]
+}
